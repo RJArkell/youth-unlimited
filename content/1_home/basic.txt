@@ -1,0 +1,94 @@
+Title: Home
+
+----
+
+Blocks:
+
+- 
+  heading: Transformed youth, transform our city
+  text: >
+    We’re a grassroots non-profit tackling
+    the cities issues lorem ipsum dolor
+    salat words
+  buttontext: See What We Do
+  button: null
+  image:
+    - smiling_children_2.jpg
+  bottomsubhead: What We Do
+  bottomheading: >
+    There are over 1 million young people in
+    the Toronto Area alone.
+  bottomtext: >
+    Each one faces their own unique
+    challenges and vulnerabilities. Youth
+    Unlimited is on a mission to reach them
+    and with your help we can!
+  _key: header
+  _uid: header_1604877238036_3758
+- 
+  texttopleft: "67"
+  textbottomleft: z
+  imageleft:
+    - istockphoto-1173128079-1024x1024.jpg
+  texttopmid: "391"
+  textbottommid: Volunteers
+  imagemid:
+    - istockphoto-1173128079-1024x1024.jpg
+  texttopright: "1448"
+  textbottomright: Regular Youth
+  imageright:
+    - istockphoto-1173128079-1024x1024.jpg
+  _key: circles
+  _uid: circles_1604873977960_506
+- 
+  heading: Impact Overview
+  text: >
+    Youth Unlimited’s work spans across
+    the entire Greater Toronto Area. Lorem
+    ipsum dolor sit amet, consectetur
+    adipiscing elit.
+  image:
+    - mapdemo.png
+  _key: map
+  _uid: map_1604867723537_1236
+- 
+  heading: Making Space
+  text: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Vel risus et massa
+    facilisi enim dui pellentesque nunc
+    massa facilisi.
+  buttontext: Learn More
+  button: null
+  image:
+    - teenaddictionsupportgroup1000.jpg
+  _key: text-image
+  _uid: text-image_1604867825577_2397
+- 
+  image:
+    - golfadvisor.brightspotcdn.com.jpg
+  heading: >
+    2020 Golf Tournament Lorem Ipsum Dolor
+    Salat
+  text: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Vel risus et massa
+    facilisi.
+  buttontext: Learn More
+  button: null
+  _key: image-text
+  _uid: image-text_1604876828647_1231
+- 
+  heading: Get Involved
+  leftbuttontext: Volunteer
+  leftbutton: null
+  midbuttontext: Job Openings
+  midbutton: null
+  rightbuttontext: Fundraise
+  rightbutton: null
+  text: Volunteer
+  button:
+    type: url
+    value: https://www.google.com
+  _key: footer
+  _uid: footer_1604869358255_616

@@ -1,0 +1,14 @@
+label: Page Blocks
+icon: box
+fields:
+  blocks:
+    label: Page blocks
+    type: builder
+    columns: 1
+    fieldsets:
+      footer: blocks/footer
+      map: blocks/map
+      circles: blocks/circles
+      text-image: blocks/text-image
+      header: blocks/header
+      image-text: blocks/image-text

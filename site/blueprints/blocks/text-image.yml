@@ -1,0 +1,23 @@
+name: Text and Image
+fields:
+  heading:
+    label: Heading
+    type: textarea
+    required: true
+  text:
+    label: Text
+    type: textarea
+    required: true
+  buttontext:
+    label: Button Text
+    type: text
+    required: true
+  button:
+    label: Button
+    type: link
+    required: true
+  image:
+    label: Image
+    type: files
+    multiple: false
+    required: true

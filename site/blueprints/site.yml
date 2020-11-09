@@ -1,0 +1,37 @@
+title: Site
+unlisted: true
+
+tabs:
+  content:
+    label: Content
+    icon: box
+    columns:
+      - width: 3/4
+        sections:
+          published:
+            type: pages
+            status: published
+            layout: cards
+            size: tiny
+            image:
+              query: page.previewImage
+              cover: true
+              back: white
+      - width: 1/4
+        sections:
+          drafts:
+            type: pages
+            status: draft
+            empty: No drafts
+            layout: cards
+            size: tiny
+            image:
+              query: page.previewImage
+              back: white
+  deploy:
+    label: Deploy
+    icon: wand
+    fields:
+      staticSiteGenerator:
+        label: Generate and publish static site
+        type: staticSiteGenerator

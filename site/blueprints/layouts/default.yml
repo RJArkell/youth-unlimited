@@ -1,0 +1,47 @@
+tabs:
+  hero:
+    label: Hero
+    icon: headline
+    fields:
+      hero_heading:
+        label: Page heading
+        type: textarea
+        buttons: false
+        help: Optional. Uses page title if blank.
+      hero_text:
+        label: Hero paragraph text
+        type: textarea
+        help: Optional. Shows below page heading.
+      hero_button:
+        label: Hero button
+        type: link
+        help: Optional call to action. Shows below hero paragraph text.
+      hero_image:
+        label: Hero image
+        type: files
+        multiple: false
+        layout: cards
+        image:
+          cover: true
+          back: white
+        width: 1/3
+      hero_caption:
+        label: Image caption
+        type: text
+        help: Optional. Uses page title if blank.
+        width: 1/3
+      hero_style:
+        label: Style
+        type: select
+        help: Choose from one of the preset styles.
+        options:
+          green-light: Green backdrop
+          teal: Teal backdrop
+          gray-pink: Beige backdrop
+        default: green
+        required: true
+        width: 1/3
+  before_body: false
+  body: tabs/blocks
+  after_body: false
+  files: tabs/files
