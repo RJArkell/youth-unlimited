@@ -5,15 +5,20 @@ Title: Home
 Blocks:
 
 - 
-  heading: Transformed youth, transform our city
+  banner: >
+    Announcement Event/News bar links down
+    to news section
+  heading: Transformed youth, transform out city
   text: >
     We’re a grassroots non-profit tackling
     the cities issues lorem ipsum dolor
     salat words
-  buttontext: See What We Do
-  button: null
+  buttontext: 'See What We Do   >'
+  button:
+    type: page
+    value: what-we-do
   image:
-    - smiling_children_2.jpg
+    - largehead.png
   bottomsubhead: What We Do
   bottomheading: >
     There are over 1 million young people in
@@ -23,21 +28,21 @@ Blocks:
     challenges and vulnerabilities. Youth
     Unlimited is on a mission to reach them
     and with your help we can!
-  _key: header
-  _uid: header_1604877238036_3758
+  _key: header-home
+  _uid: header-home_1605498046685_797
 - 
   texttopleft: "67"
-  textbottomleft: z
+  textbottomleft: Active Initiatives
   imageleft:
-    - istockphoto-1173128079-1024x1024.jpg
+    - rectangle-227.png
   texttopmid: "391"
   textbottommid: Volunteers
   imagemid:
-    - istockphoto-1173128079-1024x1024.jpg
-  texttopright: "1448"
+    - rectangle-227-1.png
+  texttopright: 1,448
   textbottomright: Regular Youth
   imageright:
-    - istockphoto-1173128079-1024x1024.jpg
+    - youngdads-116.png
   _key: circles
   _uid: circles_1604873977960_506
 - 
@@ -58,15 +63,18 @@ Blocks:
     adipiscing elit. Vel risus et massa
     facilisi enim dui pellentesque nunc
     massa facilisi.
-  buttontext: Learn More
-  button: null
+  buttontext: 'Learn More   >'
+  button:
+    type: page
+    value: making-space
   image:
-    - teenaddictionsupportgroup1000.jpg
+    - support-group.png
   _key: text-image
   _uid: text-image_1604867825577_2397
 - 
   image:
-    - golfadvisor.brightspotcdn.com.jpg
+    - screen-shot-2020-09-18-at-10.03-3.png
+  subheading: Latest Events + Stories
   heading: >
     2020 Golf Tournament Lorem Ipsum Dolor
     Salat
@@ -74,21 +82,25 @@ Blocks:
     Lorem ipsum dolor sit amet, consectetur
     adipiscing elit. Vel risus et massa
     facilisi.
-  buttontext: Learn More
-  button: null
+  buttontext: 'Learn More   >'
+  button:
+    type: page
+    value: home
   _key: image-text
   _uid: image-text_1604876828647_1231
 - 
   heading: Get Involved
-  leftbuttontext: Volunteer
-  leftbutton: null
-  midbuttontext: Job Openings
-  midbutton: null
-  rightbuttontext: Fundraise
-  rightbutton: null
-  text: Volunteer
-  button:
-    type: url
-    value: https://www.google.com
-  _key: footer
-  _uid: footer_1604869358255_616
+  leftbuttontext: 'Volunteer   >'
+  leftbutton:
+    type: page
+    value: volunteer
+  midbuttontext: 'Job Openings   >'
+  midbutton:
+    type: page
+    value: job-openings
+  rightbuttontext: 'Fundraise   >'
+  rightbutton:
+    type: page
+    value: fundraise
+  _key: footer-home
+  _uid: footer-home_1605498621849_1382

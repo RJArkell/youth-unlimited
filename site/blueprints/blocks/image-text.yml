@@ -5,6 +5,10 @@ fields:
     type: files
     multiple: false
     required: true
+  subheading:
+    label: Subheading
+    type: text
+    required: true
   heading:
     label: Heading
     type: textarea

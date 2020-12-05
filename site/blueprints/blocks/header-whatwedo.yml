@@ -1,0 +1,14 @@
+name: Header What We Do
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true
+  video:
+    label: Video
+    type: link
+    required: true
+  text:
+    label: Text
+    type: textarea
+    required: true

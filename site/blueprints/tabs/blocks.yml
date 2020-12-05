@@ -6,9 +6,26 @@ fields:
     type: builder
     columns: 1
     fieldsets:
-      footer: blocks/footer
+      header-home: blocks/header-home
+      header-aboutus: blocks/header-aboutus
+      header-makingspace: blocks/header-makingspace
+      header-whatwedo: blocks/header-whatwedo
+      header-getinvolved: blocks/header-getinvolved
+      header-volunteer: blocks/header-volunteer
+      header-news: blocks/header-news
+      header-ourteam: blocks/header-ourteam
+      faq: blocks/faq
       map: blocks/map
       circles: blocks/circles
       text-image: blocks/text-image
-      header: blocks/header
+      text-image-alt: blocks/text-image-alt
       image-text: blocks/image-text
+      image-text-alt: blocks/image-text-alt
+      text-on-image: blocks/text-on-image
+      three-image-text: blocks/three-image-text
+      six-tab: blocks/six-tab
+      six-slides: blocks/six-slides
+      eight-tab: blocks/eight-tab
+      footer-home: blocks/footer-home
+      footer-aboutus: blocks/footer-aboutus
+      footer-getinvolved: blocks/footer-getinvolved

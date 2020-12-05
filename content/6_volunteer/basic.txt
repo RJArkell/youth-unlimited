@@ -1,0 +1,110 @@
+Title: Volunteer
+
+----
+
+Blocks:
+
+- 
+  heading: Volunteer with us
+  _key: header-volunteer
+  _uid: header-volunteer_1606242406314_575
+- 
+  text: >
+    Vision ipsum dolor sit amet, consectetur
+    adipiscing elit. Mollis massa nunc quam
+    tortor feugiat ut euismod nisl
+    scelerisque.
+  buttontext: 'See where we operate   >'
+  button:
+    type: page
+    value: home
+  lefttoptext: Photography
+  leftuppermidtext: Drop-In Centres
+  leftlowermidtext: Ministry Volunteers
+  leftbottomtext: Clerical Assistance
+  righttoptext: Sports Programs
+  rightuppermidtext: Outreach Teams
+  rightlowermidtext: Prayer Co-ordination
+  rightbottomtext: Computer Support
+  _key: eight-tab
+  _uid: eight-tab_1606248503350_607
+- 
+  heading: How It Works
+  subheadleft: LOREM IPSUM STEP
+  textleft: >
+    It usually begins with a person who has
+    a heart for a particular community or
+    youth demographic.
+  imageleft:
+    - left.svg
+  subheadmid: LOREM IPSUM STEP
+  textmid: >
+    We then help that person conduct a
+    Community Needs Assessment in order to
+    better understand the context they are
+    hoping to serve.
+  imagemid:
+    - mid.svg
+  subheadright: LOREM IPSUM STEP
+  textright: >
+    Our Frontiers Team acts as an incubator
+    for that idea to be developed in a safe
+    and supportive environment until it can
+    be launched out as its own sustainable
+    team.
+  imageright:
+    - right.svg
+  _key: three-image-text
+  _uid: three-image-text_1606241128364_4008
+- 
+  heading: Frequently Asked Questions
+  text: >
+    Here are some questions to get you
+    started. Lorem ipsum dolor sit amet,
+    consectetur.
+  buttontext: 'Start the process   >'
+  button:
+    type: page
+    value: home
+  question1: What’s the time commitment?
+  answer1: >
+    Here are some questions to get you
+    started. Lorem ipsum dolor sit amet,
+    consectetur.
+  question2: How do we sign up to volunteer?
+  answer2: >
+    Here are some questions to get you
+    started. Lorem ipsum dolor sit amet,
+    consectetur.
+  question3: >
+    Is there someone I can speak with about
+    x,y,z?
+  answer3: >
+    Here are some questions to get you
+    started. Lorem ipsum dolor sit amet,
+    consectetur.
+  question4: >
+    Another question that a potential
+    volunteer would like to ask?
+  answer4: >
+    Here are some questions to get you
+    started. Lorem ipsum dolor sit amet,
+    consectetur.
+  _key: faq
+  _uid: faq_1606714021102_1030
+- 
+  heading: Get Involved
+  leftbuttontext: 'Volunteer  >'
+  leftbutton:
+    type: page
+    value: home
+  midbuttontext: 'Job Openings  >'
+  midbutton:
+    type: page
+    value: home
+  rightbuttontext: 'Fundraise   >'
+  rightbutton:
+    type: page
+    value: home
+  _key: footer-home
+  _uid: footer-home_1606240989793_3276

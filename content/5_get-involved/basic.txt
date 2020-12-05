@@ -1,0 +1,75 @@
+Title: Get Involved
+
+----
+
+Blocks:
+
+- 
+  heading: Transformed youth, transform our city
+  image:
+    - 03-image.png
+  bottomsubhead: RECRUITMENT STRATEGY
+  bottomhtext: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Feugiat accumsan, sed
+    adipiscing ultricies in nibh
+    consectetur. Et suspendisse commodo in
+    ut consequat.
+  _key: header-getinvolved
+  _uid: header-getinvolved_1606166798098_179
+- 
+  image:
+    - canoeing.png
+  heading: >
+    Create change with 500+ volunteers
+    across the city
+  text: >
+    We’re a grassroots non-profit tackling
+    the cities issues lorem ipsum dolor
+    salat words
+  buttontext: 'Volunteer with us   >'
+  button:
+    type: page
+    value: home
+  _key: image-text-alt
+  _uid: image-text-alt_1606168888789_270
+- 
+  heading: Make an impact on our growing team
+  text: "We're a grassroots non-profit tackling the cities issues lorem ipsum dolor salat words"
+  buttontext: 'Volunteer with us   >'
+  button:
+    type: page
+    value: home
+  image:
+    - guys-laughing.png
+  _key: text-image-alt
+  _uid: text-image-alt_1606168892580_708
+- 
+  image:
+    - v1.png
+  heading: Start a fundraising campaign
+  text: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Vel risus et massa
+    facilisi enim dui pellentesque nunc,
+    vel. Ullamcorper ut tristique cursus
+    varius ut id ultrices condimentum.
+  buttontext: 'Learn More   >'
+  button:
+    type: page
+    value: home
+  footerheading: Get Involved
+  leftbuttontext: 'Volunteer   >'
+  leftbutton:
+    type: page
+    value: home
+  midbuttontext: 'Job Openings   >'
+  midbutton:
+    type: page
+    value: home
+  rightbuttontext: 'Fundraise   >'
+  rightbutton:
+    type: page
+    value: home
+  _key: footer-getinvolved
+  _uid: footer-getinvolved_1606238477096_514

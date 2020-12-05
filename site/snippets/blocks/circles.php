@@ -2,8 +2,8 @@
   <div class="circlegrid">
     <div class="circle1 cgrid">
       <div class="cgrid1">
-        <?= $data->Texttopleft()->kirbytext() ?>
-        <?= $data->Textbottomleft()->kirbytext() ?>
+        <h2 class="circleheader"><?= $data->Texttopleft()->html() ?></h2>
+        <div class="circletext pinkbg"><?= $data->Textbottomleft()->html() ?></div>
       </div>
       <div class="cgrid2">
         <?php $image = $data->Imageleft()->toFile() ?>
@@ -13,8 +13,8 @@
 
     <div class="circle2 cgrid">
       <div class="cgrid1">
-        <?= $data->Texttopmid()->kirbytext() ?>
-        <?= $data->Textbottommid()->kirbytext() ?>
+        <h2 class="circleheader"><?= $data->Texttopmid()->html() ?></h2>
+        <div class="circletext greenbg"><?= $data->Textbottommid()->html() ?></div>
       </div>
       <div class="cgrid2">
         <?php $image = $data->Imagemid()->toFile() ?>
@@ -24,8 +24,8 @@
 
     <div class="circle3 cgrid">
       <div class="cgrid1">
-        <?= $data->Texttopright()->kirbytext() ?>
-        <?= $data->Textbottomright()->kirbytext() ?>
+        <h2 class="circleheader"><?= $data->Texttopright()->html() ?></h2>
+        <div class="circletext orangebg"><?= $data->Textbottomright()->html() ?></div>
       </div>
       <div class="cgrid2">
         <?php $image = $data->Imageright()->toFile() ?>

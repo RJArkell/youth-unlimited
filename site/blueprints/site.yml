@@ -28,10 +28,3 @@ tabs:
             image:
               query: page.previewImage
               back: white
-  deploy:
-    label: Deploy
-    icon: wand
-    fields:
-      staticSiteGenerator:
-        label: Generate and publish static site
-        type: staticSiteGenerator

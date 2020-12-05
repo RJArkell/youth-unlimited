@@ -2,8 +2,8 @@ name: Map
 fields:
   heading:
     label: Heading
-    type: textarea
+    type: text
     buttons: false
   text:
     label: Text
-    type: textarea
+    type: text

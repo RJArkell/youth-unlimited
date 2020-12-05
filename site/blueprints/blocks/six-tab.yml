@@ -1,0 +1,29 @@
+name: Six Tab
+fields:
+  heading:
+    label: Heading
+    type: text
+    buttons: false
+  text:
+    label: Text
+    type: text
+  lefttoptext:
+    label: Left Top Text
+    type: text
+  leftmidtext:
+    label: Left Mid Text
+    type: text
+  leftbottomtext:
+    label: Left Bottom Text
+    type: text
+  righttoptext:
+    label: Right Top Text
+    type: text
+  rightmidtext:
+    label: Right Mid Text
+    type: text
+  rightbottomtext:
+    label: Right Bottom Text
+    type: text
+
+

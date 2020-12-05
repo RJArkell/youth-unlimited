@@ -2,7 +2,7 @@ name: Text and Image
 fields:
   heading:
     label: Heading
-    type: textarea
+    type: text
     required: true
   text:
     label: Text

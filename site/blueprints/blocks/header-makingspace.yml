@@ -1,0 +1,6 @@
+name: Header Making Space
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true

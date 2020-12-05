@@ -1,0 +1,105 @@
+Title: What We Do
+
+----
+
+Blocks:
+
+- 
+  heading: What We Do
+  video:
+    type: url
+    value: >
+      https://www.youtube.com/embed/EUORFgZe9Po
+  text: >
+    Line about our initiatives and what they
+    focus on consectetur adipiscing elit.
+    Odio tristique lectus lectus feugiat eu
+    ut. Varius aenean at enim, fames
+    facilisis neque condimentum.
+  _key: header-whatwedo
+  _uid: header-whatwedo_1606070560896_449
+- 
+  heading: Our Impact
+  slide1heading: Community Outreach
+  slide1text: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan ac ultrices massa vehicula in facilisis. Feugiat lorem eget augue aenean. Convallis enim nisl diam bibendum senectus a erat facilisi. Turpis lorem amet et aliquam. Ut suscipit velit ut id mi et habitasse suspendisse.<br>
+    Rhoncus, sollicitudin amet rhoncus id. Ac non mattis vitae est urna. Erat bibendum rutrum risus eget venenatis felis hac. Suspendisse ut amet arcu dignissim sit fames. Quis proin accumsan vestibulum metus, duis risus et nisl id.
+  slide1topheading: "37"
+  slide1toptext: Outreach Initiatives
+  slide1bottomheading: "37"
+  slide1bottomtext: Outreach Initiatives
+  slide1image:
+    - jeswin-thomas-p_yxskbh3ji-unsplash-1.png
+  slide2heading: 'Marketplace Initiatives '
+  slide2text: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan ac ultrices massa vehicula in facilisis. Feugiat lorem eget augue aenean. Convallis enim nisl diam bibendum senectus a erat facilisi. Turpis lorem amet et aliquam. Ut suscipit velit ut id mi et habitasse suspendisse.<br>
+    Rhoncus, sollicitudin amet rhoncus id. Ac non mattis vitae est urna. Erat bibendum rutrum risus eget venenatis felis hac. Suspendisse ut amet arcu dignissim sit fames. Quis proin accumsan vestibulum metus, duis risus et nisl id.
+  slide2topheading: "37"
+  slide2toptext: Outreach Initiatives
+  slide2bottomheading: "37"
+  slide2bottomtext: Outreach Initiatives
+  slide2image:
+    - jeswin-thomas-p_yxskbh3ji-unsplash-1.png
+  slide3heading: 'Training & Equipment'
+  slide3text: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan ac ultrices massa vehicula in facilisis. Feugiat lorem eget augue aenean. Convallis enim nisl diam bibendum senectus a erat facilisi. Turpis lorem amet et aliquam. Ut suscipit velit ut id mi et habitasse suspendisse.<br>
+    Rhoncus, sollicitudin amet rhoncus id. Ac non mattis vitae est urna. Erat bibendum rutrum risus eget venenatis felis hac. Suspendisse ut amet arcu dignissim sit fames. Quis proin accumsan vestibulum metus, duis risus et nisl id.
+  slide3topheading: "37"
+  slide3toptext: Outreach Initiatives
+  slide3bottomheading: "37"
+  slide3bottomtext: Outreach Initiatives
+  slide3image:
+    - jeswin-thomas-p_yxskbh3ji-unsplash-1.png
+  slide4heading: Specialized Initiatives
+  slide4text: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan ac ultrices massa vehicula in facilisis. Feugiat lorem eget augue aenean. Convallis enim nisl diam bibendum senectus a erat facilisi. Turpis lorem amet et aliquam. Ut suscipit velit ut id mi et habitasse suspendisse.<br>
+    Rhoncus, sollicitudin amet rhoncus id. Ac non mattis vitae est urna. Erat bibendum rutrum risus eget venenatis felis hac. Suspendisse ut amet arcu dignissim sit fames. Quis proin accumsan vestibulum metus, duis risus et nisl id.
+  slide4topheading: "37"
+  slide4toptext: Outreach Initiatives
+  slide4bottomheading: "37"
+  slide4bottomtext: Outreach Initiatives
+  slide4image:
+    - jeswin-thomas-p_yxskbh3ji-unsplash-1.png
+  slide5heading: Training and Equipment
+  slide5text: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan ac ultrices massa vehicula in facilisis. Feugiat lorem eget augue aenean. Convallis enim nisl diam bibendum senectus a erat facilisi. Turpis lorem amet et aliquam. Ut suscipit velit ut id mi et habitasse suspendisse.<br>
+    Rhoncus, sollicitudin amet rhoncus id. Ac non mattis vitae est urna. Erat bibendum rutrum risus eget venenatis felis hac. Suspendisse ut amet arcu dignissim sit fames. Quis proin accumsan vestibulum metus, duis risus et nisl id.
+  slide5topheading: "37"
+  slide5toptext: Outreach Initiatives
+  slide5bottomheading: "37"
+  slide5bottomtext: Outreach Initiatives
+  slide5image:
+    - jeswin-thomas-p_yxskbh3ji-unsplash-1.png
+  slide6heading: Specialized Initiatives
+  slide6text: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan ac ultrices massa vehicula in facilisis. Feugiat lorem eget augue aenean. Convallis enim nisl diam bibendum senectus a erat facilisi. Turpis lorem amet et aliquam. Ut suscipit velit ut id mi et habitasse suspendisse.<br>
+    Rhoncus, sollicitudin amet rhoncus id. Ac non mattis vitae est urna. Erat bibendum rutrum risus eget venenatis felis hac. Suspendisse ut amet arcu dignissim sit fames. Quis proin accumsan vestibulum metus, duis risus et nisl id.
+  slide6topheading: "37"
+  slide6toptext: Outreach Initiatives
+  slide6bottomheading: "37"
+  slide6bottomtext: Outreach Initiatives
+  slide6image:
+    - jeswin-thomas-p_yxskbh3ji-unsplash-1.png
+  _key: six-slides
+  _uid: six-slides_1606718084500_2337
+- 
+  heading: Impact Overview
+  text: 'Youth Unlimited’s work spans across the entire Greater Toronto Area.  Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+  _key: map
+  _uid: map_1605729898522_715
+- 
+  heading: Get Involved
+  leftbuttontext: 'Volunteer   >'
+  leftbutton:
+    type: page
+    value: home
+  midbuttontext: 'Job Openings   >'
+  midbutton:
+    type: page
+    value: home
+  rightbuttontext: 'Fundraise   >'
+  rightbutton:
+    type: page
+    value: home
+  _key: footer-home
+  _uid: footer-home_1605729915420_924
