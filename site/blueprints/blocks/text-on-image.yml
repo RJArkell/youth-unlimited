@@ -13,3 +13,8 @@ fields:
     type: files
     multiple: false
     required: true
+  imagemobile:
+    label: Mobile Image
+    type: files
+    multiple: false
+    required: true

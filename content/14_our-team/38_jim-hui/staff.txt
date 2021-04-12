@@ -1,0 +1,52 @@
+Title: Jim Hui
+
+----
+
+Name: Jim Hui
+
+----
+
+Position: IT Support Technician
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34437" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Prior to joining YU, Jim spent 18 years working in the Information and Technology field at IBM. Waking up every day he knows he will be using that experience and the gained technical skills to serve God in his role as IT Support Technician. By working behind the scenes to support and equip our front line youth workers, young people will be better served and be transformed by God’s love and life-changing power to attain their full life potential.
+
+----
+
+Image:
+
+- layer-58.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

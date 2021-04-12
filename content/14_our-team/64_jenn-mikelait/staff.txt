@@ -1,0 +1,52 @@
+Title: Jenn Mikelait
+
+----
+
+Name: Jenn Mikelait
+
+----
+
+Position: Project Serve: Coordinator
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="28627" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: At Project Serve we educate and equip youth to love and serve through local and international service projects. Our vision is for youth to gain transferable skills and experiences that will empower them to change their community, country and the world. We want youth to gain a better understanding of poverty and injustice and be moved to action. We share God’s love with our teams and invite them to explore what God has to say about the poor and oppressed. My role is to lead and facilitate these experiences.
+
+----
+
+Image:
+
+- layer-78.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers, Project Serve

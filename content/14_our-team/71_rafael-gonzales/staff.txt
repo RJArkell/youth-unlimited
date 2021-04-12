@@ -1,0 +1,58 @@
+Title: Rafael Gonzales
+
+----
+
+Name: Rafael Gonzales
+
+----
+
+Position: Communications Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="44000" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description:
+
+After finishing a Degree in Accounting and Finance, Rafael has found that his true passions are community and creativity. Through Youth Unlimited, Rafael will be shifting his focus to expanding the kingdom of God; extending the reach of both his personal impact and Youth Unlimited’s through the communications and ministry work he will be involved in. 
+
+In the future, Rafael hopes to start a ministry of his own, helping people experience God’s love and encouraging them to actively seek it out and to share it with others.
+
+Please support and walk alongside him to help him realize the plans God has in store for him!
+
+----
+
+Image:
+
+- layer-65.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services, Intern Cohort

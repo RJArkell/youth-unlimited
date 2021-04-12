@@ -1,0 +1,52 @@
+Title: Meiling Kim
+
+----
+
+Name: Meiling Kim
+
+----
+
+Position: Assistant to the Executive Director
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="28810" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: In Meiling’s role as one of the assistants to the Executive Director, she serves the vision of Youth Unlimited by supporting the strategic and spiritual leadership of the Executive Director through her assistance in communication projects, special events, internal gatherings and administrative matters relating to the Board of Directors.
+
+----
+
+Image:
+
+- layer-68.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

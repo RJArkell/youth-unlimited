@@ -5,12 +5,16 @@ Title: About Us
 Blocks:
 
 - 
-  heading: Get involved with Youth Unlimited
+  heading: ""
+  _key: navbar-aboutus
+  _uid: navbar-aboutus_1607628865214_2771
+- 
+  heading: About Youth Unlimited in Toronto
   image:
-    - 03-image.png
-  bottomsubhead: Our Mission
+    - about-us_475x701_yellow-this-one.png
+  bottomsubhead: Our Vision
   bottomhtext: "That every young person in the GTA will be transformed by God's love and life-changing power and will be a redemptive presence in their family, community, and beyond."
-  buttontext: 'What We Do   >'
+  buttontext: 'What We Do  ›'
   button:
     type: page
     value: what-we-do
@@ -18,64 +22,129 @@ Blocks:
   bottomheading: null
   _uid: header-aboutus_1605733372543_2499
 - 
+  heading: Our Vision for Transformation
+  slide1heading: The "Canvas of Transformation"
+  slide1text: >
+    At YU, we imagine transformation as God
+    at work as a compassionate artist,
+    painting on the canvas of both lives and
+    neighbourhoods over time. We envision
+    the colour palette having YU’s 5
+    Primary Colours, from which any
+    combination of colours can be created.
+    As we invest in youth wholeness in this
+    context, we believe we will continue to
+    see this ‘Canvas of Transformation’
+    come to life in young people, their
+    families, and their neighbourhoods. This
+    is transformed youth transforming our
+    city.
+  slide1topheading: ' '
+  slide1toptext: ' '
+  slide1bottomheading: ' '
+  slide1bottomtext: ' '
+  slide1image:
+    - canvas-of-transformation.jpg
+  slide2heading: 'Colour #1: Rooted Identity'
+  slide2text: |
+    ***Engaging Life with Jesus***
+    
+    As young people grow in their journey of faith, the roots of their identity grow down deeply into a firm foundation. We envision young people finding contentment, building a healthy self-image, depending on God, and finding forgiveness, freedom, and healing.
+  slide2topheading: ' '
+  slide2toptext: ' '
+  slide2bottomheading: ' '
+  slide2bottomtext: ' '
+  slide2image:
+    - rooted-identity.jpg
+  slide3heading: 'Colour #2: Renewed Character'
+  slide3text: |
+    ***Growing in Virtue***
+    
+    In an increasingly connected world, we know character matters more than ever. Just like fruit in an orchard, God grows in our young people virtues such as love, joy, peace, patience, kindness, humility, goodness, and gentleness. Young people with these virtues can truly change our world.
+  slide3topheading: ' '
+  slide3toptext: ' '
+  slide3bottomheading: ' '
+  slide3bottomtext: ' '
+  slide3image:
+    - renewed-character.jpg
+  slide4heading: 'Colour #3: Healthy Relationships'
+  slide4text: |
+    ***Seeking Reconciliation & Vibrant Community***
+    
+    We believe God is at work restoring and building every relationship in our lives. We aim to see young people act as bridge builders and participate in communities that nurture belonging, faith, and sacrificial love.
+  slide4topheading: ' '
+  slide4toptext: ' '
+  slide4bottomheading: ' '
+  slide4bottomtext: ' '
+  slide4image:
+    - healthy-relationships.jpg
+  slide5heading: 'Colour #4: Joyful Service'
+  slide5text: |
+    ***Putting Others First***
+    
+    We rejoice in seeing young people serve others, putting the needs of others before themselves. A mop and bucket symbolizes the humble acts of kindness we aim to nurture in our youth throughout the city. We believe our young people will discover lasting joy through a life of service for others.
+  slide5topheading: ' '
+  slide5toptext: ' '
+  slide5bottomheading: ' '
+  slide5bottomtext: ' '
+  slide5image:
+    - jofyful-service.jpg
+  slide6heading: 'Colour #5: Clear Purpose'
+  slide6text: |
+    ***Discovering & Utilizing Gifts & Abilities***
+    
+    We believe every one of us has been given specific gifts, skills, and passions through which we find confidence and purpose. When young people find their 'sweet spot', it renews a sense of hope and direction, and everyone around them benefits.
+  slide6topheading: ' '
+  slide6toptext: ' '
+  slide6bottomheading: ' '
+  slide6bottomtext: ' '
+  slide6image:
+    - clear-purpose.jpg
+  _key: six-slides
+  _uid: six-slides_1614182623517_12066
+- 
   heading: Our History
-  text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam elementum aenean in feugiat non nullam faucibus purus, sed. Lorem augue fermentum, suspendisse ut ut. Tempus, urna ultrices curabitur nisl facilisis amet. Euismod fames eget eget venenatis, ut velit enim. Nulla tristique massa egestas ullamcorper arcu pellentesque.<br>
-    Odio sed sapien amet, vitae, lorem tellus neque luctus. A eget nunc, amet, donec tortor lectus. Faucibus non in lectus tellus mi.
+  text: 'Youth Unlimited (originally Youth For Christ) was launched in 1944. Inspired by YFC rallies in Chicago, our roots in Toronto began with hosting large youth rallies at Massey Hall. These became some of the largest youth gatherings in the world at the time. Since then, YU’s entrepreneurial spirit has led us through a series of strategic shifts that clearly exemplifies our motto:  “Anchored to the Rock but geared to the times.”  Over the past 75 years our approach has developed to include weekly community clubs, proactive outreach programs, and neighbourhood-focused church partnerships.'
   image:
-    - mask-group.png
+    - text-on-image-desktop.png
+  imagemobile:
+    - text-on-image-mobile.png
   _key: text-on-image
   buttontext: null
   button:
     type: page
   _uid: text-on-image_1605733390196_2795
 - 
-  heading: Out Approach
-  subheadleft: LOREM IPSUM STEP
-  textleft: >
-    It usually begins with a person who has
-    a heart for a particular community or
-    youth demographic.
-  imageleft:
-    - left.svg
-  subheadmid: LOREM IPSUM STEP
-  textmid: >
-    We then help that person conduct a
-    Community Needs Assessment in order to
-    better understand the context they are
-    hoping to serve.
-  imagemid:
-    - mid.svg
-  subheadright: LOREM IPSUM STEP
-  textright: >
-    Our Frontiers Team acts as an incubator
-    for that idea to be developed in a safe
-    and supportive environment until it can
-    be launched out as its own sustainable
-    team.
-  imageright:
-    - right.svg
-  _key: three-image-text
-  _uid: three-image-text_1605733394987_3135
-- 
-  heading: Our Programs
-  text: "We're a grassroots non-profit tackling the cities issues lorem ipsum dolor salat words"
-  lefttoptext: Community Outreach
-  leftmidtext: 'Training & Equipment'
-  leftbottomtext: Community Outreach
-  righttoptext: Marketplace Initiatives
-  rightmidtext: Specialized Initiatives
-  rightbottomtext: Community Outreach
-  _key: six-tab
-  _uid: six-tab_1605734608019_876
-- 
-  heading: Making Space
+  heading: Unique Programs for Unique Needs
   text: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Vel risus et massa
-    facilisi enim dui pellentesque nunc
-    massa facilisi.
-  buttontext: 'Learn More   >'
+    Every demographic and community of young
+    people has specific and unique needs
+    that we seek to address. We always
+    commit to contextualizing the hope we
+    find in Jesus to foster the wholistic
+    transformation of the youth we serve
+    through our six program categories.
+  lefttoptext: Community Outreach
+  leftmidtext: Critical Care
+  leftbottomtext: Innovative Centres
+  righttoptext: Leadership Development
+  rightmidtext: Marketplace Initiatives
+  rightbottomtext: 'Trips, Camps & Events'
+  _key: six-tab
+  _uid: six-tab_1614117216789_1154
+- 
+  heading: Making Space Strategy
+  text: >
+    We launched our 4-year strategic plan,
+    Making Space, in 2019 after an extensive
+    organization-wide discernment journey.
+    Making Space is shaping our focus in
+    every one of our initiatives, for every
+    one of the young people we love and
+    serve. Our strategic plan has four main
+    areas of focus, or pathways, guiding us
+    in this season.
+  buttontext: 'Learn More  ›'
   button:
     type: page
     value: making-space
@@ -84,10 +153,11 @@ Blocks:
   _key: text-image
   _uid: text-image_1605729589122_1419
 - 
-  heading: View our Impact Report
-  buttontext: 'Download Now   >'
+  heading: View our latest Impact Report
+  buttontext: 'Download Now  ›'
   button:
-    type: page
-    value: home
+    type: url
+    value: >
+      http://www.renga.studio/youthunlimited/media/pages/publications/2020-impact-report/63113498-1612914672/20-12-10-yu-impact-report-2020-v7-web.pdf
   _key: footer-aboutus
   _uid: footer-aboutus_1605733398136_3513

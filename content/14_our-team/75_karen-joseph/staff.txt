@@ -1,0 +1,52 @@
+Title: Karen Joseph
+
+----
+
+Name: Karen Joseph
+
+----
+
+Position: Personnel Associate
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34453" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Karen has worked with YU since 2004. She has worked with both the Light Patrol and Jane Finch teams. In her various roles she has worked both on the frontlines and as a staff supervisor. In her current role as Personnel Associate, she supports the personnel team in leading training sessions for staff and providing orientation to new staff. She also serves as the Jane Finch Team Shepherd. Alongside her role at YU, Karen also serves as the Program Manager of the Youth and Family Ministry Program and Associate Professor at Emmanuel Bible College.
+
+----
+
+Image:
+
+- layer-61.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

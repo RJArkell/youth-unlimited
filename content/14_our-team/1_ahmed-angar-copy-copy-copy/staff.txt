@@ -1,0 +1,121 @@
+Title: Ahmed Angar
+
+----
+
+Name: Ahmed Angar
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id=ch_cdn_embed type=text/javascript src=https://www.canadahelps.org/secure/js/cdf_embed.js charset=utf-8 data-language=en data-page-id=15983 data-root-url=https://www.canadahelps.org data-formtype=0 data-cfasync=false></script>
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. At fames et netus tempus maecenas egestas urna. Odio sapien, integer tortor nunc eget ac lacus lectus. Porttitor eu, turpis libero sed ullamcorper sed. Habitant massa pharetra, risus, porttitor augue. Nec senectus pellentesque molestie purus nibh euismod fringilla viverra est. Sagittis eleifend sed sed phasellus sodales porta congue quam.
+
+----
+
+Image:
+
+- mask-group.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: Central Services
+
+----
+
+Link:
+
+type: page
+value:
+  - 
+    dragText: '(link: home text: Home)'
+    hasChildren: false
+    icon:
+      type: page
+      ratio: 3/2
+      back: pattern
+      color: '#c5c9c6'
+      cover: false
+      url: >
+        http://localhost:3000/youthunlimited/media/pages/home/388361575-1608060833/citywide-learning-circles-hero-2.png
+      cards:
+        url: >
+          data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+        srcset: >
+          http://localhost:3000/youthunlimited/media/pages/home/388361575-1608060833/citywide-learning-circles-hero-2-352x.png
+          352w,
+          http://localhost:3000/youthunlimited/media/pages/home/388361575-1608060833/citywide-learning-circles-hero-2-864x.png
+          864w,
+          http://localhost:3000/youthunlimited/media/pages/home/388361575-1608060833/citywide-learning-circles-hero-2-1408x.png
+          1408w
+      list:
+        url: >
+          data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+        srcset: >
+          http://localhost:3000/youthunlimited/media/pages/home/388361575-1608060833/citywide-learning-circles-hero-2-38x38.png
+          1x,
+          http://localhost:3000/youthunlimited/media/pages/home/388361575-1608060833/citywide-learning-circles-hero-2-76x76.png
+          2x
+    id: home
+    image:
+      ratio: 3/2
+      back: pattern
+      cover: false
+      url: >
+        http://localhost:3000/youthunlimited/media/pages/home/388361575-1608060833/citywide-learning-circles-hero-2.png
+      cards:
+        url: >
+          data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+        srcset: >
+          http://localhost:3000/youthunlimited/media/pages/home/388361575-1608060833/citywide-learning-circles-hero-2-352x.png
+          352w,
+          http://localhost:3000/youthunlimited/media/pages/home/388361575-1608060833/citywide-learning-circles-hero-2-864x.png
+          864w,
+          http://localhost:3000/youthunlimited/media/pages/home/388361575-1608060833/citywide-learning-circles-hero-2-1408x.png
+          1408w
+      list:
+        url: >
+          data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+        srcset: >
+          http://localhost:3000/youthunlimited/media/pages/home/388361575-1608060833/citywide-learning-circles-hero-2-38x38.png
+          1x,
+          http://localhost:3000/youthunlimited/media/pages/home/388361575-1608060833/citywide-learning-circles-hero-2-76x76.png
+          2x
+    info: ""
+    link: /pages/home
+    text: Home
+    url: http://localhost:3000/youthunlimited
+
+----
+
+Date: 2021-01-16 21:50

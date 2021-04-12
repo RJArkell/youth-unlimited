@@ -112,7 +112,7 @@ fields:
     type: text
     required: true
   slide4bottomtext:
-    label: Slide 64 Bottom Text 
+    label: Slide 4 Bottom Text 
     type: text
     required: true
   slide4image:

@@ -1,0 +1,52 @@
+Title: Helen Wyse
+
+----
+
+Name: Helen Wyse
+
+----
+
+Position: Personnel Director
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="19471" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: During this season, Helen is investing her time in mentoring Michelle Lau into the new Director of People Development role in which she will gradually assume the leadership in creating systems of care for YU workers. This includes a careful incoming process, training, equipping, coaching and spiritual mentoring.
+
+----
+
+Image:
+
+- layer-57.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

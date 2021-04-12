@@ -6,7 +6,7 @@
     
     <div class="threeimgtxt2">
       <?php $image = $data->imageleft()->toFile() ?>
-      <img class="" src="<?= $image->url() ?>">
+      <img class="threeimg" src="<?= $image->url() ?>">
     </div>
     <div class="threeimgtxt3">
       <div class="threeimgtxtsubhead"><?= $data->subheadleft()->html() ?></div>
@@ -17,7 +17,7 @@
 
     <div class="threeimgtxt5">
       <?php $image = $data->imagemid()->toFile() ?>
-      <img class="" src="<?= $image->url() ?>">
+      <img class="threeimg" src="<?= $image->url() ?>">
     </div>
     <div class="threeimgtxt6">
       <div class="threeimgtxtsubhead"><?= $data->subheadmid()->html() ?></div>
@@ -28,7 +28,7 @@
 
     <div class="threeimgtxt8">
       <?php $image = $data->imageright()->toFile() ?>
-      <img class="" src="<?= $image->url() ?>">
+      <img class="threeimg" src="<?= $image->url() ?>">
     </div>
     <div class="threeimgtxt9">
       <div class="threeimgtxtsubhead"><?= $data->subheadright()->html() ?></div>

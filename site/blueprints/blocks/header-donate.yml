@@ -1,0 +1,6 @@
+name: Header Donate
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true

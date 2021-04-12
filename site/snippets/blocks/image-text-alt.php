@@ -8,7 +8,9 @@
     <div class="imgtxtalt2">
       <h2 class="imgtxtaltheader"><?= $data->heading()->html() ?></h2>
       <div class="imgtxtalttext"><?= $data->text()->html() ?></div>
-      <button class="bbutton"><?= $data->buttontext()->html() ?></button>
+      <?php if ($data->buttontext()->isNotEmpty()) : ?>
+        <a href="<?= $data->button()->toLinkObject()?>"><button class="bbutton"><?= $data->buttontext()->html() ?></button></a>
+      <?php endif ?>
     </div>
   </div>
 </section>

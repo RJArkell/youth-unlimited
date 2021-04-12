@@ -5,53 +5,66 @@ Title: Home
 Blocks:
 
 - 
-  banner: >
-    Announcement Event/News bar links down
-    to news section
-  heading: Transformed youth, transform out city
+  banner: "Join us for our 2021 'Tee It Up For Transformation' Golf Tournament!"
+  _key: banner
+  _uid: banner_1607536136590_1198
+- 
+  heading: ""
+  _key: navbar-home
+  _uid: navbar-home_1607628474279_1459
+- 
+  heading: Transformed youth, transforming our city
   text: >
-    We’re a grassroots non-profit tackling
-    the cities issues lorem ipsum dolor
-    salat words
-  buttontext: 'See What We Do   >'
+    We’re a faith-based charity investing
+    in youth wholeness to see young lives,
+    their families and their communities
+    transformed.
+  buttontext: 'See What We Do  ›'
   button:
     type: page
     value: what-we-do
   image:
     - largehead.png
-  bottomsubhead: What We Do
+  bottomsubhead: Who We Serve
   bottomheading: >
     There are over 1 million young people in
     the Toronto Area alone.
-  bottomtext: >
-    Each one faces their own unique
-    challenges and vulnerabilities. Youth
-    Unlimited is on a mission to reach them
-    and with your help we can!
+  bottomtext: "Youth Unlimited’s vision is to see every one of them transformed by God's love & life-changing power. Our hope is that by cultivating relationships with caring adults who will mentor and cheer them on, our young people will be able to bring about positive change to our city – both now and in the future."
+  mbuttontext: 'Donate today  ›'
+  mbutton:
+    type: page
+    value: donate
+  banner: >
+    Announcement Event/News bar links down
+    to news section
   _key: header-home
   _uid: header-home_1605498046685_797
 - 
-  texttopleft: "67"
-  textbottomleft: Active Initiatives
+  texttopleft: 3,592
+  textbottomleft: Youth Reached
   imageleft:
-    - rectangle-227.png
-  texttopmid: "391"
-  textbottommid: Volunteers
+    - youth_reached-edited.jpg
+  texttopmid: "590"
+  textbottommid: Staff + Volunteers
   imagemid:
-    - rectangle-227-1.png
-  texttopright: 1,448
-  textbottomright: Regular Youth
+    - circle-staff-and-volunteer.png
+  texttopright: "59"
+  textbottomright: Active Initiatives
   imageright:
-    - youngdads-116.png
+    - rectangle-227.png
   _key: circles
   _uid: circles_1604873977960_506
 - 
-  heading: Impact Overview
+  heading: YU Across the City
   text: >
-    Youth Unlimited’s work spans across
-    the entire Greater Toronto Area. Lorem
-    ipsum dolor sit amet, consectetur
-    adipiscing elit.
+    In order to come alongside young people
+    to address their unique challenges and
+    vulnerabilities, Youth Unlimited
+    develops grassroots initiatives in local
+    partnerships throughout our city, which
+    includes Toronto, York, Peel, Durham,
+    and Halton. Explore the map to see where
+    we are engaging youth today!
   image:
     - mapdemo.png
   _key: map
@@ -59,11 +72,11 @@ Blocks:
 - 
   heading: Making Space
   text: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Vel risus et massa
-    facilisi enim dui pellentesque nunc
-    massa facilisi.
-  buttontext: 'Learn More   >'
+    Launched in 2019, our 4-year strategic
+    pathway is shaping our focus in every
+    one of our initiatives, for every one of
+    the young people we love and serve.
+  buttontext: 'Learn More  ›'
   button:
     type: page
     value: making-space
@@ -73,7 +86,7 @@ Blocks:
   _uid: text-image_1604867825577_2397
 - 
   image:
-    - screen-shot-2020-09-18-at-10.03-3.png
+    - golf-tournament.png
   subheading: Latest Events + Stories
   heading: >
     2020 Golf Tournament Lorem Ipsum Dolor
@@ -82,7 +95,7 @@ Blocks:
     Lorem ipsum dolor sit amet, consectetur
     adipiscing elit. Vel risus et massa
     facilisi.
-  buttontext: 'Learn More   >'
+  buttontext: 'Learn More  ›'
   button:
     type: page
     value: home
@@ -90,15 +103,15 @@ Blocks:
   _uid: image-text_1604876828647_1231
 - 
   heading: Get Involved
-  leftbuttontext: 'Volunteer   >'
+  leftbuttontext: 'Careers  ›'
   leftbutton:
     type: page
-    value: volunteer
-  midbuttontext: 'Job Openings   >'
+    value: job-openings
+  midbuttontext: 'Volunteer  ›'
   midbutton:
     type: page
-    value: job-openings
-  rightbuttontext: 'Fundraise   >'
+    value: volunteer
+  rightbuttontext: 'Fundraise  ›'
   rightbutton:
     type: page
     value: fundraise

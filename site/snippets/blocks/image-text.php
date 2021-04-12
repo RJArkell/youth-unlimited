@@ -1,15 +1,26 @@
-<section>
-  <div class="imgtxtgrid">
-    <div class="imgtxt1">
-      <?php $image = $data->image()->toFile() ?>
-      <img class="imgtxtimg" src="<?= $image->url() ?>">
-    </div>
-
-    <div class="imgtxt2">
-      <div class="imgtxtsubheader"><?= $data->subheading()->html() ?></div>
-      <h2 class="imgtxtheader"><?= $data->heading()->html() ?></h2>
-      <div class="imgtxttext"><?= $data->text()->html() ?></div>
-      <a href="<?= $data->button()->toLinkObject() ?>"><button class="bbutton"><?= $data->buttontext()->html() ?></button></a>
-    </div>
-  </div>
+<section id="latest">
+<ul class="imgtxtlist">
+  <?php $publications = page('publications')->children()->published();?>
+  <?php $events = page('events')->children()->published();?>
+  <?php $stories = page('stories')->children()->published();?>
+  <?php $entries = $events->merge($stories, $publications);?>
+  <?php $entries = $entries->sortBy('date', 'desc');?>
+  <?php foreach ($entries->paginate(1) as $entry) : ?>
+    <li>
+        <figure class="imgtxtgrid">
+          <img class="imgtxtimg imgtxt1" src=<?= $entry->image()->url() ?>>
+          <div class="imgtxt2">
+            <span class="imgtxtsubheader">Latest Stories + Events</span>
+            <h2 class="imgtxtheader"><?= $entry->name() ?></h2>
+            <div class="imgtxttext"><?= $entry->body()->excerpt(75)->kt() ?></div>
+            <?php if ($entry->template() == "publication") : ?>
+              <a target="_blank" href="<?= $entry->pdf()->toFile() ?>"><button class="bbutton">Learn More</button></a>
+            <?php else: ?>
+              <a href="<?= $entry->url()?>"><button class="bbutton">Learn More</button></a>
+            <?php endif ?>
+          </div>
+        </figure>
+    </li>
+  <?php endforeach ?>
+</ul>
 </section>

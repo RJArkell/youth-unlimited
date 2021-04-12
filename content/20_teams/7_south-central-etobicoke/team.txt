@@ -1,0 +1,130 @@
+Title: South-Central Etobicoke
+
+----
+
+Name: South-Central Etobicoke
+
+----
+
+Lefttext: Youth will undergo spiritual and holistic development as we serve and journey with them and their families.
+
+----
+
+Righttext: Our South-Central Etobicoke team comes alongside youth in our community. We look to offer wholistic care for youth through sports programs, leadership programs, a young moms program and camps. We highly value partnering with local churches in Etobcioke.
+
+----
+
+Donatelink:
+
+type: url
+value: https://donate.yugta.ca/
+text: Donate
+
+----
+
+Buttontext: Learn More  >
+
+----
+
+Learnlink:
+
+type: url
+value: http://rahab.yugta.ca/
+
+----
+
+Headingone: South-Central Etobicoke Initiatives
+
+----
+
+Titleone: Community Outreach
+
+----
+
+Textone:
+
+**Lakeshore Soccer Youth Program** 
+
+A fun, low-competitive, affordable and community-focused fall/winter soccer league in South Etobicoke for youth (ages 13-18)
+
+**Lakeshore Soccer League** 
+
+A fun, low-competitive, affordable and community-focused summer soccer league in South Etobicoke for kids aged 6-12
+
+----
+
+Titletwo: Leadership Developement
+
+----
+
+Texttwo:
+
+**Lakeshore LIT Leadership Training**
+
+Students ages 13-18 gain practical leadership experience in their communities through serving as Junior Coaches in the Lakeshore Soccer League kids program
+
+**LevelUp Leadership Training** 
+
+A one year Christian leadership learning group for youth grades 9-12 in South-Central Etobicoke
+
+----
+
+Titlethree: Trips & Camps & Events
+
+----
+
+Textthree:
+
+**Camp Widjitiwin Summer Program**
+
+A week-long summer camp experience for youth and families who are part of our South-Central Etobicoke programs
+
+----
+
+Titlefour: Innovative Centres
+
+----
+
+Textfour:
+
+**Capstone Jiu-Jitsu Program** 
+
+A fun, competitive program for kids and youth to build confidence while learning Brazillian Jiu-Jitsu skills
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: Join our Work in the Community of South-Central Etobicoke!
+
+----
+
+Stats: Dolor sit amet, consectetur adipiscing elit. Lacinia dictum donec laoreet tristique bibendum elit vitae.
+
+----
+
+Image:
+
+- sce.png
+
+----
+
+Footer: Support Us Today!
+
+----
+
+Tags: South-Central Etobicoke

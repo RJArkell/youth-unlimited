@@ -1,0 +1,59 @@
+Title: Monica Kay
+
+----
+
+Name: Monica Kay
+
+----
+
+Position: Director
+
+----
+
+Team: LAUNCH
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="19989" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Monica joined the LAUNCH team in 2010 as Coach Coordinator and took on the role of Director in 2013. She has mentored young adults for over a decade, serving nationally with Athletes in Action’s University Division for 10 years, and now continues coaching through LAUNCH. Monica received her Masters in French and English Canadian Literature as well as her Bachelor of Education. She has also benefited from participating in the Arrow Leadership Program. Monica has a heart for helping young people to grow spiritually, in character, and in leadership as they realize their unique God-given potential and make a Kingdom difference.
+
+----
+
+Image:
+
+- 0001_launch-monica-kay.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: LAUNCH
+
+----
+
+Link:
+
+type: page
+value: teams/launch

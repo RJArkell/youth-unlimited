@@ -1,0 +1,52 @@
+Title: Clement Lee
+
+----
+
+Name: Clement Lee
+
+----
+
+Position: Community Director
+
+----
+
+Team: Jane-Finch
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34456" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As the Jane & Finch Community Director, Clem’s role is to lead, support and develop staff, volunteers and ministries in the Jane & Finch neighbourhood. Jane & Finch is a community that many look upon in a negative light. Where some see an area to avoid and fear, our team sees a place and people full of hope and potential.
+
+----
+
+Image:
+
+- layer-16.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Jane-Finch

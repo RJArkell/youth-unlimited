@@ -7,7 +7,9 @@
     
     <div class="txtonimg2">
       <?php $image = $data->image()->toFile() ?>
-      <img class="" src="<?= $image->url() ?>">
+      <img class="txtonimgimg" src="<?= $image->url() ?>">
+      <?php $image = $data->imagemobile()->toFile() ?>
+      <img class="mtxtonimgimg" src="<?= $image->url() ?>">
     </div>
 
     <div class="txtonimg3"></div>

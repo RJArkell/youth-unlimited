@@ -1,0 +1,57 @@
+Title: Paula Castrucci
+
+----
+
+Name: Paula Castrucci
+
+----
+
+Position: Ministry Support Worker
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34211" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description:
+
+As a Ministry Support Worker, Paula uses her boundless energy to come alongside ministries across our chapter to provide help and support as needed. Currently, she is:
+- Covering a mat leave by working as a Youth Outreach Worker for Light Patrol
+- Helping Doxa Journeys develop (and lead) their GTA service component
+- Crafting texts and encouraging students through our BlessUP texting initiative
+
+----
+
+Image:
+
+- layer-80.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers, BlessUP, Project Serve

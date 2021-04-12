@@ -3,7 +3,9 @@
     <div class="txtimgalt1">
       <h2 class="txtimgaltheader"><?= $data->heading()->html() ?></h2>
       <div class="txtimgalttext"><?= $data->text()->html() ?></div>
-      <a href="<?= $data->button()->toLinkObject() ?>"><button class="bbutton"><?= $data->buttontext()->html() ?></button></a>
+      <?php if ($data->buttontext()->isNotEmpty()) : ?>
+        <a href="<?= $data->button()->toLinkObject()?>"><button class="bbutton"><?= $data->buttontext()->html() ?></button></a>
+      <?php endif ?>
     </div>
     
     <div class="txtimgalt2">

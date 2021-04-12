@@ -1,0 +1,52 @@
+Title: Ben Hartholt
+
+----
+
+Name: Ben Hartholt
+
+----
+
+Position: Program Assistant
+
+----
+
+Team: The Shop
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="42989" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As a program assistant, Ben serves in a split role at The Shop. He will use existing skills and talents to serve as bookkeeper and tow truck driver, as well as training and mentoring youth in auto mechanics. This role provides an opportunity for Ben to use his past personal experience to fuel and shape his ministry with at-risk youth, helping to equip them in life and trade skills.
+
+----
+
+Image:
+
+- layer-44.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: The Shop

@@ -1,0 +1,52 @@
+Title: Kirushanthan Krishnapillai
+
+----
+
+Name: Kirushanthan Krishnapillai
+
+----
+
+Position: Frontiers Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="52142" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Kirushanthan joined YU as a participant in 2014 and is now interning with us as a Community Outreach Intern on our Frontiers Team. He has a passion for sharing God’s love with others and making disciples, and will work as an assistant leader in various YU programs. Kirushanthan desires to walk like Jesus did in all areas of his life.
+
+----
+
+Image:
+
+- layer-72.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers, Light Patrol, Intern Cohort, Bridletowne

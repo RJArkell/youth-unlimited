@@ -3,27 +3,34 @@ fields:
   heading:
     label: Heading
     type: text
-    buttons: false
+    required: true
   text:
     label: Text
     type: text
+    required: true
   lefttoptext:
     label: Left Top Text
     type: text
+    required: true
   leftmidtext:
     label: Left Mid Text
     type: text
+    required: true
   leftbottomtext:
     label: Left Bottom Text
     type: text
+    required: true
   righttoptext:
     label: Right Top Text
     type: text
+    required: true
   rightmidtext:
     label: Right Mid Text
     type: text
+    required: true
   rightbottomtext:
     label: Right Bottom Text
     type: text
+    required: true
 
 

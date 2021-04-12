@@ -1,0 +1,52 @@
+Title: Chloe Savich
+
+----
+
+Name: Chloe Savich
+
+----
+
+Position: Rahab Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="52694" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Chloe began interning at Rahab in 2019 and has returned full time after finishing her undergrad at Redeemer University. Because of the pandemic, she was able to relocate to the GTA and begin coordinating Rahab's online outreach. Chloe holds Matthew 25:36 close to her heart as she humbly walks in ministry. She is honoured to cultivate relationships with the women whom the Lord leads to Rahab.
+
+----
+
+Image:
+
+- layer-30.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Rahab, Intern Cohort

@@ -1,0 +1,42 @@
+Title: Hue Francis
+
+----
+
+Name: Hue Francis
+
+----
+
+Position: Worship Arts Coordinator
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="36624" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: We are a registered, faith-based youth-serving charity dedicated to the transformation of teenage lives in the Greater Toronto Area, regardless of race, faith or culture.
+
+----
+
+Image:
+
+- layer-8.png
+
+----
+
+Tags: DOXA
+
+----
+
+Link:
+
+type: page
+value: home
+
+----
+
+Date: 2021-01-16 21:50

@@ -5,6 +5,11 @@ fields:
     type: files
     multiple: false
     required: true
+  imagemobile:
+    label: Mobile Image
+    type: files
+    multiple: false
+    required: true
   heading:
     label: Heading
     type: text

@@ -1,9 +1,5 @@
 name: Header Home
 fields:
-  banner:
-    label: Banner
-    type: text
-    buttons: false
   heading:
     label: Heading
     type: text
@@ -36,6 +32,14 @@ fields:
   bottomtext:
     label: Bottom Text
     type: text
+    required: true
+  mbuttontext:
+    label: Mobile Button Text
+    type: text
+    required: true
+  mbutton:
+    label: Mobile Button
+    type: link
     required: true
 
   

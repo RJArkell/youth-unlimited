@@ -1,0 +1,52 @@
+Title: David Annesley
+
+----
+
+Name: David Annesley
+
+----
+
+Position: Project Assistant
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34185" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: David grew up in Belfast, Northern Ireland. He came to Toronto in 2008 to serve children and youth living in government housing communities and spent 4 years at YU serving with Light Patrol ministering to Toronto’s homeless youth. In his current role as the Central Services Project Assistant, David seeks to use his ministry experience and passion to support, serve and empower the different Youth Unlimited ministries and departments.
+
+----
+
+Image:
+
+- layer-56.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

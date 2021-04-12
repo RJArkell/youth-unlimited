@@ -1,0 +1,5 @@
+[05-Mar-2021 20:10:09 UTC] PHP Warning:  Class 'Kirby\Cms\App' not found in /home/rengastu/public_html/youthunlimited/kirby/config/setup.php on line 22
+[05-Mar-2021 20:10:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Kirby' not found in /home/rengastu/public_html/youthunlimited/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/rengastu/public_html/youthunlimited/index.php on line 25

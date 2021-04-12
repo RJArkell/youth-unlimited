@@ -1,0 +1,52 @@
+Title: Tim Huff
+
+----
+
+Name: Tim Huff
+
+----
+
+Position: Compassion Series: Team Lead
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34397" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: No Description
+
+----
+
+Image:
+
+- layer-81.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers, Compassion Series

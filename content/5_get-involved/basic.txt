@@ -5,18 +5,41 @@ Title: Get Involved
 Blocks:
 
 - 
-  heading: Transformed youth, transform our city
+  heading: ""
+  _key: navbar-getinvolved
+  _uid: navbar-getinvolved_1607628973059_6158
+- 
+  heading: Get Involved in Changing Young Lives
   image:
-    - 03-image.png
-  bottomsubhead: RECRUITMENT STRATEGY
+    - get-involved_475x701_blue-this-one.png
+  bottomsubhead: STRENGTH IN NUMBERS
   bottomhtext: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Feugiat accumsan, sed
-    adipiscing ultricies in nibh
-    consectetur. Et suspendisse commodo in
-    ut consequat.
+    At Youth Unlimited, we believe everyone
+    has a part to play in seeing young
+    people experience joy in Jesus,
+    wholistic wellbeing, healthy community,
+    and hope for a bright future.
   _key: header-getinvolved
   _uid: header-getinvolved_1606166798098_179
+- 
+  heading: >
+    Make an impact as part of our growing
+    team
+  text: >
+    We are growing our team of resilient
+    leaders who have a heart for young
+    people, a vibrant faith, and believe
+    that transformation of our city is
+    possible through the transformation of
+    the youth we serve.
+  buttontext: "We're Hiring  ›"
+  button:
+    type: page
+    value: jobs
+  image:
+    - rob-with-yds.png
+  _key: text-image-alt
+  _uid: text-image-alt_1606168892580_708
 - 
   image:
     - canoeing.png
@@ -24,52 +47,50 @@ Blocks:
     Create change with 500+ volunteers
     across the city
   text: >
-    We’re a grassroots non-profit tackling
-    the cities issues lorem ipsum dolor
-    salat words
-  buttontext: 'Volunteer with us   >'
+    Each of our programs relies on a
+    hardworking group of volunteers who
+    invest their time and energy in youth
+    transformation through mentoring,
+    visiting, sharing a meal, checking in,
+    and other ways of journeying with them.
+  buttontext: 'Volunteer with Us  ›'
   button:
     type: page
-    value: home
+    value: volunteer
   _key: image-text-alt
   _uid: image-text-alt_1606168888789_270
 - 
-  heading: Make an impact on our growing team
-  text: "We're a grassroots non-profit tackling the cities issues lorem ipsum dolor salat words"
-  buttontext: 'Volunteer with us   >'
-  button:
-    type: page
-    value: home
-  image:
-    - guys-laughing.png
-  _key: text-image-alt
-  _uid: text-image-alt_1606168892580_708
-- 
-  image:
-    - v1.png
-  heading: Start a fundraising campaign
+  heading: >
+    Grow your impact as an organizational
+    partner
   text: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Vel risus et massa
-    facilisi enim dui pellentesque nunc,
-    vel. Ullamcorper ut tristique cursus
-    varius ut id ultrices condimentum.
-  buttontext: 'Learn More   >'
+    We are committed to partnering with
+    local churches and like-minded agencies
+    to collaboratively impact and empower
+    the young people we serve.
+  buttontext: 'Partner with Us  ›'
   button:
     type: page
-    value: home
-  footerheading: Get Involved
-  leftbuttontext: 'Volunteer   >'
+    value: partner-with-us
+  image:
+    - 0000_get-involved-partner.png
+  _key: text-image-alt
+  uniquekey: 0
+  showpreviewinitially: false
+  _uid: text-image-alt_1614032447239_1163
+- 
+  heading: ' Get Involved'
+  leftbuttontext: 'Careers  ›'
   leftbutton:
     type: page
-    value: home
-  midbuttontext: 'Job Openings   >'
+    value: jobs
+  midbuttontext: 'Volunteer  ›'
   midbutton:
     type: page
-    value: home
-  rightbuttontext: 'Fundraise   >'
+    value: volunteer
+  rightbuttontext: 'Fundraise  ›'
   rightbutton:
     type: page
-    value: home
-  _key: footer-getinvolved
-  _uid: footer-getinvolved_1606238477096_514
+    value: fundraise
+  _key: footer-home
+  _uid: footer-home_1614897140195_54949

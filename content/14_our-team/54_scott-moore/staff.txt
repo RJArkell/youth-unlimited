@@ -1,0 +1,52 @@
+Title: Scott Moore
+
+----
+
+Name: Scott Moore
+
+----
+
+Position: Executive Director
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="19466" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Scott serves Youth Unlimited as its Executive Director in the CEO role. He is responsible for the strategic direction of the organization, as well as leadership, team and resource development. Central to his responsibilities, Scott provides spiritual leadership to YU, caring for the well-being of his staff as they reach out to the young people of the GTA.
+
+----
+
+Image:
+
+- layer-67.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

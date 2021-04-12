@@ -1,0 +1,62 @@
+Title: Andrew Ironside
+
+----
+
+Name: Andrew Ironside
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: South-Central Etobicoke
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34439" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description:
+
+From large-scale programs to informal run-ins at the coffee shop – and everything in between – Andrew’s desire is to follow the example of Jesus and serve his community well.
+
+In the spring and summer, Andrew’s primary role is to plan and oversee the Lakeshore Soccer League, a grassroots program for 180 kids in South Etobicoke. He is also responsible for recruiting and training 30 volunteer coaches, numerous student referees, and an additional 30 student leaders as part of the Leaders in Training Program.
+
+During the fall and winter, Andrew’s responsibilities include running a drop-in soccer program at Lakeshore C.I. High School, coordinating a mid-week soccer and homework club for elementary-age kids, and fundraising for the programs.
+
+As part of his role, Andrew also works in partnership with Capstone Community Bible Church to come alongside individuals and families in various capacities.
+
+Notably, Andrew and his wife Stephanie are loving fans of the Toronto Maple Leafs!
+
+----
+
+Image:
+
+- layer-33.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: South-Central Etobicoke

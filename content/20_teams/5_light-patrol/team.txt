@@ -1,0 +1,117 @@
+Title: Light Patrol
+
+----
+
+Name: Light Patrol
+
+----
+
+Lefttext: Light Patrol envisions that all young people in the GTA would have the opportunity to know the peace of having a home and a place of belonging within a supportive Christian community.
+
+----
+
+Righttext: Youth experiencing homelessness face significant barriers in many aspects of their lives. Light Patrol goes to where these youth are: under bridges, on street corners, and encamped in parks.
+
+----
+
+Donatelink:
+
+type: url
+value: https://donate.yugta.ca/
+
+----
+
+Buttontext: Learn More  >
+
+----
+
+Learnlink:
+
+type: page
+value: home
+
+----
+
+Headingone: Light Patrol Initiatives
+
+----
+
+Titleone: Critical Care
+
+----
+
+Textone:
+
+**Curb Light Street Ministry** 
+
+Mobile outreach program to youth experiencing homelessness in downtown Toronto
+
+**Health Light Street Ministry** 
+
+Health assessments and basic medical care for youth experiencing homelessness in downtown Toronto
+
+**1:1 Youth Care** 
+
+Ongoing relational support for youth experiencing homelessness and youth who are newly housed
+
+----
+
+Titletwo: 
+
+----
+
+Texttwo: 
+
+----
+
+Titlethree: 
+
+----
+
+Textthree: 
+
+----
+
+Titlefour: 
+
+----
+
+Textfour: 
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: The Reality of Youth Honelessness
+
+----
+
+Stats: Description about Light Patrol at a high-level dolor sit amet, consectetur adipiscing elit. Lacinia dictum donec laoreet tristique bibendum elit vitae.
+
+----
+
+Image:
+
+- lp.png
+
+----
+
+Footer: Support Us Today!
+
+----
+
+Tags: Light Patrol

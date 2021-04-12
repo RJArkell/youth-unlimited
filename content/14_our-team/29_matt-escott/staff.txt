@@ -1,0 +1,52 @@
+Title: Matt Escott
+
+----
+
+Name: Matt Escott
+
+----
+
+Position: Co-Leader
+
+----
+
+Team: Light Patrol
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34220" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As Co-Leader for Light Patrol, Matt provides support to the Light Patrol staff as they engage with youth living on the streets of Toronto, as well as helping to develop and implement Light Patrol’s vision of seeing homeless youth transformed by the grace and power of God.
+
+----
+
+Image:
+
+- layer-26.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Light Patrol

@@ -2,7 +2,7 @@
   <div class="eighttabgrid">
     <div class="eighttab1">
       <div class="eighttabtext "><?= $data->text()->html() ?></div>
-      <a href="<?= $data->button()->toLinkObject() ?>"><button class="bbutton"><?= $data->buttontext()->kirbytext() ?></button></a>
+      <a href="<?= $data->button()->toLinkObject() ?>"><button class="bbutton eighttabb"><?= $data->buttontext()->html() ?></button></a>
     </div>
     
     <div class="eighttab2 etgrid">
@@ -31,5 +31,10 @@
         <div class="eighttabtext2"><?= $data->rightbottomtext()->html() ?></div>
       </div>
     </div>
+
+    <div class="eighttab3">
+      <a href="<?= $data->button()->toLinkObject() ?>"><button class="bbutton"><?= $data->buttontext()->html() ?></button></a>
+    </div>
+
   </div>
 </section>

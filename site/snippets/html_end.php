@@ -1,6 +1,5 @@
       </main>
 
-      <?php snippet('footer') ?>
     </div>
 
     <?php

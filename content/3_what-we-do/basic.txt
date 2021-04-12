@@ -5,101 +5,159 @@ Title: What We Do
 Blocks:
 
 - 
-  heading: What We Do
-  video:
-    type: url
-    value: >
-      https://www.youtube.com/embed/EUORFgZe9Po
-  text: >
-    Line about our initiatives and what they
-    focus on consectetur adipiscing elit.
-    Odio tristique lectus lectus feugiat eu
-    ut. Varius aenean at enim, fames
-    facilisis neque condimentum.
-  _key: header-whatwedo
-  _uid: header-whatwedo_1606070560896_449
+  heading: ""
+  _key: navbar-aboutus
+  _uid: navbar-aboutus_1607628893332_4560
 - 
-  heading: Our Impact
+  heading: What We Do
+  image:
+    - about-us_475x701_yellow-this-one.png
+  bottomsubhead: Grassroots, entrepreneurial partnerships
+  bottomhtext: >
+    Youth Unlimited partners with local
+    churches and organizations in grassroots
+    programming to foster the wholistic
+    transformation of young people and their
+    communities.
+  buttontext: 'Meet Our Team  ›'
+  button:
+    type: page
+    value: our-team
+  _key: header-aboutus
+  _uid: header-aboutus_1613741912552_3735
+- 
+  heading: Our Programs
   slide1heading: Community Outreach
   slide1text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan ac ultrices massa vehicula in facilisis. Feugiat lorem eget augue aenean. Convallis enim nisl diam bibendum senectus a erat facilisi. Turpis lorem amet et aliquam. Ut suscipit velit ut id mi et habitasse suspendisse.<br>
-    Rhoncus, sollicitudin amet rhoncus id. Ac non mattis vitae est urna. Erat bibendum rutrum risus eget venenatis felis hac. Suspendisse ut amet arcu dignissim sit fames. Quis proin accumsan vestibulum metus, duis risus et nisl id.
-  slide1topheading: "37"
-  slide1toptext: Outreach Initiatives
-  slide1bottomheading: "37"
-  slide1bottomtext: Outreach Initiatives
+    ***Connecting in neighbourhoods through team and mentoring relationships***
+    Our Community Outreach initiatives journey alongside youth within GTA neighbourhoods.  These multifaceted programs are shaped by the needs and desires of the local community, and brought to life through the passions, skills and expertise of our people.
+    They include: Academic Support, School Programs, Neighbourhood Drop-Ins, Recreational Sports, Neighbourhood Church Partnerships, and Virtual Outreach.
+  slide1topheading: "19"
+  slide1toptext: Active Initiatives
+  slide1bottomheading: "4"
+  slide1bottomtext: Teams Leading Initiatives
   slide1image:
-    - jeswin-thomas-p_yxskbh3ji-unsplash-1.png
-  slide2heading: 'Marketplace Initiatives '
+    - vic_village.jpg
+  slide2heading: Critical Care
   slide2text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan ac ultrices massa vehicula in facilisis. Feugiat lorem eget augue aenean. Convallis enim nisl diam bibendum senectus a erat facilisi. Turpis lorem amet et aliquam. Ut suscipit velit ut id mi et habitasse suspendisse.<br>
-    Rhoncus, sollicitudin amet rhoncus id. Ac non mattis vitae est urna. Erat bibendum rutrum risus eget venenatis felis hac. Suspendisse ut amet arcu dignissim sit fames. Quis proin accumsan vestibulum metus, duis risus et nisl id.
-  slide2topheading: "37"
-  slide2toptext: Outreach Initiatives
-  slide2bottomheading: "37"
-  slide2bottomtext: Outreach Initiatives
+    ***Supporting youth experiencing systemic vulnerability***
+    These programs provide wholistic care and tangible support to youth experiencing systemic vulnerability, as well as strategic advocacy and/or allyship. They include:
+    • Mobile Presence - prison visits, street outreach, massage parlour outreach
+    • Safe Housing - temporary housing residence, Home Stay program
+    • Young Parent Support
+    • Physical/Health Support - food, clothing, medical care
+    • Mental Health Support
+    • Advocacy & “Allyship”
+  slide2topheading: "15"
+  slide2toptext: Active Initiatives
+  slide2bottomheading: "4"
+  slide2bottomtext: Teams Leading Initiatives
   slide2image:
-    - jeswin-thomas-p_yxskbh3ji-unsplash-1.png
-  slide3heading: 'Training & Equipment'
+    - critical-care-2.jpg
+  slide3heading: Innovative Centres
   slide3text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan ac ultrices massa vehicula in facilisis. Feugiat lorem eget augue aenean. Convallis enim nisl diam bibendum senectus a erat facilisi. Turpis lorem amet et aliquam. Ut suscipit velit ut id mi et habitasse suspendisse.<br>
-    Rhoncus, sollicitudin amet rhoncus id. Ac non mattis vitae est urna. Erat bibendum rutrum risus eget venenatis felis hac. Suspendisse ut amet arcu dignissim sit fames. Quis proin accumsan vestibulum metus, duis risus et nisl id.
-  slide3topheading: "37"
-  slide3toptext: Outreach Initiatives
-  slide3bottomheading: "37"
-  slide3bottomtext: Outreach Initiatives
+    ***Pursuing shared interests in inspiring environments***
+    These activities inspire youth as they gather together to grow and develop in areas of shared interests and passion.
+    These include: Sports & Fitness Training, and Artistic Development (future).
+  slide3topheading: "2"
+  slide3toptext: Active Initiatives
+  slide3bottomheading: "2"
+  slide3bottomtext: Teams Leading Initiatives
   slide3image:
-    - jeswin-thomas-p_yxskbh3ji-unsplash-1.png
-  slide4heading: Specialized Initiatives
+    - jiujitsupromos-133.jpg
+  slide4heading: Leadership Development
   slide4text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan ac ultrices massa vehicula in facilisis. Feugiat lorem eget augue aenean. Convallis enim nisl diam bibendum senectus a erat facilisi. Turpis lorem amet et aliquam. Ut suscipit velit ut id mi et habitasse suspendisse.<br>
-    Rhoncus, sollicitudin amet rhoncus id. Ac non mattis vitae est urna. Erat bibendum rutrum risus eget venenatis felis hac. Suspendisse ut amet arcu dignissim sit fames. Quis proin accumsan vestibulum metus, duis risus et nisl id.
-  slide4topheading: "37"
-  slide4toptext: Outreach Initiatives
-  slide4bottomheading: "37"
-  slide4bottomtext: Outreach Initiatives
+    ***Growing and discovering God’s purpose for life***
+    Our Leadership Development programs provide mentorship, growth and discipling relationships for youth, as well as networking and equipping opportunities for parents, teachers and youth workers. These include:
+    • Parent and Youth Worker Equipping
+    • Intentional Mentorship
+    • Discipleship Cohorts
+    • Youth Leadership Training
+  slide4topheading: "12"
+  slide4toptext: Active Initiatives
+  slide4bottomheading: "5"
+  slide4bottomtext: Teams Leading Initiatives
   slide4image:
-    - jeswin-thomas-p_yxskbh3ji-unsplash-1.png
-  slide5heading: Training and Equipment
+    - leadership-development-2.jpg
+  slide5heading: Marketplace Initiatives
   slide5text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan ac ultrices massa vehicula in facilisis. Feugiat lorem eget augue aenean. Convallis enim nisl diam bibendum senectus a erat facilisi. Turpis lorem amet et aliquam. Ut suscipit velit ut id mi et habitasse suspendisse.<br>
-    Rhoncus, sollicitudin amet rhoncus id. Ac non mattis vitae est urna. Erat bibendum rutrum risus eget venenatis felis hac. Suspendisse ut amet arcu dignissim sit fames. Quis proin accumsan vestibulum metus, duis risus et nisl id.
-  slide5topheading: "37"
-  slide5toptext: Outreach Initiatives
-  slide5bottomheading: "37"
-  slide5bottomtext: Outreach Initiatives
+    ***Developing employment skills and entrepreneurship***
+    Our Marketplace Initiatives support the development of sustainable livelihoods for young people through mentoring relationships that focus on employment readiness, job-skills training, employment placement and entrepreneurship. These include:
+    • Employment Support - readiness, placement, mentoring
+    • Social Enterprise
+    • Skills Training
+  slide5topheading: "5"
+  slide5toptext: Active Initiatives
+  slide5bottomheading: "2"
+  slide5bottomtext: Teams Leading Initiatives
   slide5image:
-    - jeswin-thomas-p_yxskbh3ji-unsplash-1.png
-  slide6heading: Specialized Initiatives
+    - market-place-initiatives.jpg
+  slide6heading: 'Trips, Camps & Events'
   slide6text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan ac ultrices massa vehicula in facilisis. Feugiat lorem eget augue aenean. Convallis enim nisl diam bibendum senectus a erat facilisi. Turpis lorem amet et aliquam. Ut suscipit velit ut id mi et habitasse suspendisse.<br>
-    Rhoncus, sollicitudin amet rhoncus id. Ac non mattis vitae est urna. Erat bibendum rutrum risus eget venenatis felis hac. Suspendisse ut amet arcu dignissim sit fames. Quis proin accumsan vestibulum metus, duis risus et nisl id.
-  slide6topheading: "37"
-  slide6toptext: Outreach Initiatives
-  slide6bottomheading: "37"
-  slide6bottomtext: Outreach Initiatives
+    ***Sharing experiences, adventure and social impact***
+    Our Trips, Camps & Events enable youth to join with friends as they share adventures and experiences, and participate in short-term service and mission projects.
+    These include:
+    • Short-Term Mission Trips - Serpent River, Dominican Republic
+    • Camps - day camp, overnight camp
+    • Service Projects - Project Serve
+    • Day Trips - farm, archery, fishing
+  slide6topheading: "6"
+  slide6toptext: Active Initiatives
+  slide6bottomheading: "4"
+  slide6bottomtext: Teams Leading Initiatives
   slide6image:
-    - jeswin-thomas-p_yxskbh3ji-unsplash-1.png
+    - seeds_of_hope.jpg
   _key: six-slides
   _uid: six-slides_1606718084500_2337
 - 
-  heading: Impact Overview
-  text: 'Youth Unlimited’s work spans across the entire Greater Toronto Area.  Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+  heading: Our Approach
+  subheadleft: "DISCERNING GOD'S INVITATION"
+  textleft: >
+    Since we depend on God to bring about
+    the transformation of youth and our
+    city, we seek His invitation and
+    guidance in our daily activities and
+    strategic decisions.
+  imageleft:
+    - guiding-principle-image-1-v5.png
+  subheadmid: LONG-TERM RELATIONSHIPS
+  textmid: >
+    Since we know wholistic transformation
+    takes time, trust and modelling, we seek
+    to develop meaningful, long-term
+    relationships with youth.
+  imagemid:
+    - guiding-principle-image-2.png
+  subheadright: LIFE-LONG TRANSFORMATION
+  textright: 'Since we desire young people to be on a life-long faith journey with Jesus, we  seek to integrate youth into vibrant faith communities where they can find belonging and purpose.'
+  imageright:
+    - guiding-principle-image-3-v2.png
+  _key: three-image-text
+  _uid: three-image-text_1615547173671_2059
+- 
+  heading: See Where Youth Unlimited Works
+  text: >
+    Our 59 active initiatives serve young
+    people across the Greater Toronto Area.
+    Learn more about where and how we are
+    engaging young people and their
+    communities by type of programming,
+    area, or YU team!
   _key: map
   _uid: map_1605729898522_715
 - 
   heading: Get Involved
-  leftbuttontext: 'Volunteer   >'
+  leftbuttontext: 'Careers  ›'
   leftbutton:
     type: page
-    value: home
-  midbuttontext: 'Job Openings   >'
+    value: job-openings
+  midbuttontext: 'Volunteer  ›'
   midbutton:
     type: page
-    value: home
-  rightbuttontext: 'Fundraise   >'
+    value: volunteer
+  rightbuttontext: 'Fundraise  ›'
   rightbutton:
     type: page
-    value: home
+    value: fundraise
   _key: footer-home
   _uid: footer-home_1605729915420_924

@@ -1,0 +1,132 @@
+Title: Governance
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-aboutus
+  _uid: navbar-aboutus_1614702619309_1200
+- 
+  heading: 'Board of Directors & Governance'
+  _key: header-makingspace
+  _uid: header-makingspace_1614702730264_1414
+- 
+  image:
+    - lc-andrew-scott.png
+  heading: ' '
+  text: >
+    As a faith-based charitable
+    organization, our leaders and governing
+    body work in the best interest of our
+    youth (those we serve) and supporters
+    (those who donate their time and money).
+    The Board of Directors is Youth
+    Unlimited’s governing body and
+    oversees all matters involving Youth
+    Unlimited, now and into the future.
+  buttontext: 'See Financial Stewardship  ›'
+  button:
+    type: page
+    value: financial-statements
+  _key: image-text-alt
+  _uid: image-text-alt_1614638038205_11728
+- 
+  heading: Executive Committee
+  subheadleft: PAUL HOGAN — CHAIR
+  textleft: "Paul is a retired partner from PwC and has been on YU's Board since 2006. He and his wife attend Redemption Church in Whitby."
+  imageleft:
+    - paul-hogan.jpg
+  subheadmid: 'JOHN TOMPKINS - SECRETARY'
+  textmid: >
+    John is a retired SVP from Aon Hewitt.
+    John has been on the YU Board since
+    2002. He and his wife attend The Well in
+    Maple.
+  imagemid:
+    - john-tompkins.jpg
+  subheadright: 'BRUCE DACCORD - TREASURER'
+  textright: >
+    Bruce is the President of Transcourt
+    Inc. and joined the YU Board in 2013.
+    Bruce and his wife attend the Meeting
+    House in Brampton.
+  imageright:
+    - bruce-daccord.jpg
+  _key: three-image-text
+  _uid: three-image-text_1614607897965_16652
+- 
+  heading: Members At Large
+  subheadleft: GERD FIEBIG
+  textleft: >
+    Gerd is the Director of Global Talent
+    Acquisition at Alta Group and joined the
+    YU Board in 2020. He and his family
+    attend the Campus Church in Aurora.
+  imageleft:
+    - gerd-fiebig.jpg
+  subheadmid: KAARINA HSIEH
+  textmid: >
+    Kaarina is the Lead Pastor of Parkway
+    Forest Community Church in Toronto.
+    Kaarina joined the YU Board in 2020.
+  imagemid:
+    - kaarina-hsieh.jpg
+  subheadright: ANOUSHKA MARTIL
+  textright: >
+    Anoushka is a Principal at DPRA Canada
+    and joined the YU Board in 2017. She and
+    her family are members of Friendship
+    Community Church in Toronto.
+  imageright:
+    - anoushka-martil.jpg
+  _key: three-image-text
+  _uid: three-image-text_1614633118788_8813
+- 
+  heading: '    '
+  subheadleft: ANDREW WILLIAMS
+  textleft: >
+    Andrew is Principal at Liberty Square
+    Consulting and attends the Meeting
+    House, Yorkdale with his family. Andrew
+    joined the YU Board in 2019.
+  imageleft:
+    - andrew-williams.jpg
+  subheadmid: KAREN WILLSON
+  textmid: >
+    Karen is SVP at Ketchum Canada Inc. and
+    has been on the YU Board since 2002. She
+    and her husband attend Spring Garden
+    Baptist Church in North York.
+  imagemid:
+    - karen-willson.jpg
+  subheadright: ' '
+  textright: ' '
+  imageright:
+    - blank.png
+  _key: three-image-text
+  _uid: three-image-text_1614633330084_9594
+- 
+  heading: Board Responsibilities
+  lefttext: |
+    The Board performs an overall directing and monitoring role and delegates operational leadership to the Executive Director (“ED”).
+    
+    The Board’s responsibilities are to:
+    - Design the Board structure and processes.
+    - Establish Board policies for the organization.
+    - Govern the missional and strategic planning process.
+    - Delegate management authority and responsibility to the ED.
+    - Support and provide development for the ED.
+    - Oversee risk management.
+    - Monitor compliance and measure results.
+    - Assess the effectiveness of the Board.
+  righttext: |
+    In additional to our own internal standards, as an affiliate member of the (link: https://www.cccc.org/ text: Canadian Centre for Christian Charities), Youth Unlimited also operates within the external standards expected of a Christian charity:
+    - We are committed to the Christian faith.
+    - We are diligent in our governance with an independent and active Board.
+    - We demonstrate transparent and proper financial oversight, including (link: http://www.renga.studio/youthunlimited/financial-statements text: public disclosure of our financial statements). (**update link once domain transferred**)
+    - We operate with the utmost integrity, and adhere to all applicable laws.
+    - Our fundraising is ethical and respects the dignity and interests both of those we serve and our donors.
+  _key: two-col-text
+  _uid: two-col-text_1614698624795_3365

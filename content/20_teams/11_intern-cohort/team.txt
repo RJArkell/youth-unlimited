@@ -1,0 +1,106 @@
+Title: Intern Cohort
+
+----
+
+Name: Intern Cohort
+
+----
+
+Lefttext: Outstanding Text
+
+----
+
+Righttext: Outstanding Text
+
+----
+
+Donatelink:
+
+type: url
+value: http://donate.yugta.ca/
+
+----
+
+Buttontext: Get Involved  >
+
+----
+
+Learnlink:
+
+type: page
+value: get-involved
+
+----
+
+Headingone: Outstanding Text
+
+----
+
+Titleone: Outstanding Text
+
+----
+
+Textone: Outstanding Text
+
+----
+
+Titletwo: 
+
+----
+
+Texttwo: 
+
+----
+
+Titlethree: 
+
+----
+
+Textthree: 
+
+----
+
+Titlefour: 
+
+----
+
+Textfour: 
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: Outstanding Text
+
+----
+
+Stats: Outstanding Text
+
+----
+
+Image:
+
+- >
+  image-goes-here-image-goes-here-image-goes-here-image-goes-here-image-goes-here-image-goes-here-image-goes-here-image-goes-here-.png
+
+----
+
+Footer: Outstanding Text
+
+----
+
+Tags: Intern Cohort

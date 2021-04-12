@@ -5,7 +5,7 @@
   </div>
   
   <div>
-    <iframe src='assets\map\mapdemo.html' class="mapframe">
+    <iframe src='assets\map\map.html' class="mapframe">
     </iframe>
   </div>
 </section>

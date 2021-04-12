@@ -1,0 +1,52 @@
+Title: Ann Stocker
+
+----
+
+Name: Ann Stocker
+
+----
+
+Position: Counselling & Community Consultant
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34467" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Ann is YU’s Counselling & Community Consultant: Youth Mental Health & Community Resources. Ann serves the full YU team — researching, resourcing, guiding and supporting our frontlines workers and ministries in a context in which youth and families increasingly are challenged with mental health and family issues. She has worked with “at-risk” families and in marginalized communities for close to 30 years and is also a therapist. She also sits on the executive of Young Parents of No Fixed Address (YPNFA) which is a city-wide network of agencies serving young families in the GTA.
+
+----
+
+Image:
+
+- layer-53.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

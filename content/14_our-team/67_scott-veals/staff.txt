@@ -1,0 +1,52 @@
+Title: Scott Veals
+
+----
+
+Name: Scott Veals
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: Jane-Finch
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34474" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Scott has been working with Youth Unlimited since 1999, and feels that he is currently in the midst of the deepest connection with youth that he’s ever had! Scott oversees the Downsview After School Program, the Downsview Indoor Soccer Outreach and the Rexdale Road Hockey outreach. He has a core group of 15+ youth & young adults, with most of these attending Emmanuel Church’s youth group…and with some attending church regularly also!
+
+----
+
+Image:
+
+- layer-20.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Jane-Finch

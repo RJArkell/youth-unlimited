@@ -1,0 +1,63 @@
+Title: Ahmed Angar
+
+----
+
+Name: Ahmed Angar
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id=ch_cdn_embed type=text/javascript src=https://www.canadahelps.org/secure/js/cdf_embed.js charset=utf-8 data-language=en data-page-id=15983 data-root-url=https://www.canadahelps.org data-formtype=0 data-cfasync=false></script>
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. At fames et netus tempus maecenas egestas urna. Odio sapien, integer tortor nunc eget ac lacus lectus. Porttitor eu, turpis libero sed ullamcorper sed. Habitant massa pharetra, risus, porttitor augue. Nec senectus pellentesque molestie purus nibh euismod fringilla viverra est. Sagittis eleifend sed sed phasellus sodales porta congue quam.
+
+----
+
+Image:
+
+- mask-group.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: Central Services
+
+----
+
+Link:
+
+type: page
+value: home
+
+----
+
+Date: 2021-01-16 21:50

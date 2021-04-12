@@ -1,0 +1,56 @@
+Title: Caroline Co Chien
+
+----
+
+Name: Caroline Co Chien
+
+----
+
+Position: Chinese Ministry Worker
+
+----
+
+Team: Rahab
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="51920" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description:
+
+Caroline’s compassion for victims of injustices and of exploitation was instilled and cultivated by God at a young age. Her first-hand experiences with the vulnerable drove her desire to join Rahab Ministry as a volunteer in 2014 and now as a staff member. Her work involves outreach to sex workers in the Greater Toronto Area, building relationships with women, children and their family members who are impacted by the sex trade and with those in imminent risk of entering the sex trade.
+
+Thank you for your prayers and donations to support her work as she serves and cares for these people trapped in the sex trade so that their lives be renewed and rebuilt with new hope through and in Christ.
+
+----
+
+Image:
+
+- layer-29.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Rahab

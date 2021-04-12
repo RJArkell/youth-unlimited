@@ -1,0 +1,63 @@
+Title: Calvin Russell
+
+----
+
+Name: Calvin Russell
+
+----
+
+Position: Director Of DOXA
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="31726" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: With over 30 years of youth ministry experience (as a Pastor, YU worker and director of a youth program), Calvin brings experience and passion to his role as Doxa Director. He is deeply committed to ‘making disciples as Jesus did’ as he helps youth attain their full life potential. He loves to spend time equipping youth leaders with the necessary tools to create healthy and vibrant youth ministries both locally and nationally. He also oversees Sonlife Canada.
+
+----
+
+Image:
+
+- layer-4.png
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: DOXA
+
+----
+
+Link:
+
+type: page
+value: home
+
+----
+
+Date: 2021-01-16 21:50

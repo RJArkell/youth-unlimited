@@ -1,2 +1,5 @@
 title: Basic Page
-extends: layouts/basic
+tabs:
+  body: tabs/blocks
+  files: tabs/files
+

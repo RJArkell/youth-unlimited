@@ -16,8 +16,6 @@ fields:
   buttontext:
     label: Button Text
     type: text
-    required: true
   button:
     label: Button
     type: link
-    required: true
