@@ -13,6 +13,9 @@ fields:
     type: files
     multiple: false
     required: true
+  alttextleft:
+    label: Image Alt Text
+    type: text
   Texttopmid:
     label: Text Top Mid
     type: text
@@ -26,6 +29,9 @@ fields:
     type: files
     multiple: false
     required: true
+  alttextmid:
+    label: Image Alt Text
+    type: text
   Texttopright:
     label: Text Top Right
     type: text
@@ -39,3 +45,6 @@ fields:
     type: files
     multiple: false
     required: true
+  alttextright:
+    label: Image Alt Text
+    type: text

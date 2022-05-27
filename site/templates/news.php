@@ -54,7 +54,7 @@
     <li class="storyitem">
       <a href="<?= $story->url() ?>">
         <figure>
-         <img class="threegridimg" src=<?= $story->image()->url() ?>>
+          <img class="threegridimg" src=<?= $story->image()->url() ?>>
           <figcaption class="storytitle"><?= $story->name() ?><figcaption>
           <div class="storysum"><?= $story->body()->excerpt(150)->kt() ?></div>
           <time class="jobdate"><?= $story->date()->toDate('d / m / Y') ?></time>

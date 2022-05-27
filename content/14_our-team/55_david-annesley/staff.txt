@@ -1,0 +1,56 @@
+Title: David Annesley
+
+----
+
+Name: David Annesley
+
+----
+
+Position: New2YU Coordinator
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34185" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: David grew up in Belfast, Northern Ireland. He came to Toronto in 2008 to serve children and youth living in government housing communities and joined YU in 2016, ministering to homeless youth for 4 years with the Light Patrol program.  As the New2YU Coordinator, David seeks to use his ministry and leadership experience to bring support to each ministry team by overseeing the incoming/hiring process for new frontline missionaries and by providing guidance, training and coaching to new missionary staff.  David has a real heart and passion to walk alongside and shepherd new staff as they get established in their ministries.
+
+----
+
+Image:
+
+- layer-56.png
+
+----
+
+Alttext: David Annesley portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

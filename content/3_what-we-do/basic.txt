@@ -9,9 +9,10 @@ Blocks:
   _key: navbar-aboutus
   _uid: navbar-aboutus_1607628893332_4560
 - 
-  heading: What We Do
+  heading: ' What We Do'
   image:
     - about-us_475x701_yellow-this-one.png
+  alttext: Youths smiling with hands raised
   bottomsubhead: Grassroots, entrepreneurial partnerships
   bottomhtext: >
     Youth Unlimited partners with local
@@ -32,12 +33,13 @@ Blocks:
     ***Connecting in neighbourhoods through team and mentoring relationships***
     Our Community Outreach initiatives journey alongside youth within GTA neighbourhoods.  These multifaceted programs are shaped by the needs and desires of the local community, and brought to life through the passions, skills and expertise of our people.
     They include: Academic Support, School Programs, Neighbourhood Drop-Ins, Recreational Sports, Neighbourhood Church Partnerships, and Virtual Outreach.
-  slide1topheading: "19"
+  slide1topheading: "20"
   slide1toptext: Active Initiatives
   slide1bottomheading: "4"
   slide1bottomtext: Teams Leading Initiatives
   slide1image:
     - vic_village.jpg
+  alttext1: Four men in a kitchen preparing meals
   slide2heading: Critical Care
   slide2text: |
     ***Supporting youth experiencing systemic vulnerability***
@@ -48,12 +50,13 @@ Blocks:
     • Physical/Health Support - food, clothing, medical care
     • Mental Health Support
     • Advocacy & “Allyship”
-  slide2topheading: "15"
+  slide2topheading: "16"
   slide2toptext: Active Initiatives
-  slide2bottomheading: "4"
+  slide2bottomheading: "5"
   slide2bottomtext: Teams Leading Initiatives
   slide2image:
     - critical-care-2.jpg
+  alttext2: Light Patrol staff conversing outdoors
   slide3heading: Innovative Centres
   slide3text: |
     ***Pursuing shared interests in inspiring environments***
@@ -65,6 +68,9 @@ Blocks:
   slide3bottomtext: Teams Leading Initiatives
   slide3image:
     - jiujitsupromos-133.jpg
+  alttext3: >
+    Two young girls kneeling on a mat in a
+    busy jiu jitsu class
   slide4heading: Leadership Development
   slide4text: |
     ***Growing and discovering God’s purpose for life***
@@ -73,12 +79,13 @@ Blocks:
     • Intentional Mentorship
     • Discipleship Cohorts
     • Youth Leadership Training
-  slide4topheading: "12"
+  slide4topheading: "11"
   slide4toptext: Active Initiatives
   slide4bottomheading: "5"
   slide4bottomtext: Teams Leading Initiatives
   slide4image:
     - leadership-development-2.jpg
+  alttext4: Three volunteers smiling in soup kitchen
   slide5heading: Marketplace Initiatives
   slide5text: |
     ***Developing employment skills and entrepreneurship***
@@ -86,12 +93,15 @@ Blocks:
     • Employment Support - readiness, placement, mentoring
     • Social Enterprise
     • Skills Training
-  slide5topheading: "5"
+  slide5topheading: "6"
   slide5toptext: Active Initiatives
   slide5bottomheading: "2"
   slide5bottomtext: Teams Leading Initiatives
   slide5image:
     - market-place-initiatives.jpg
+  alttext5: >
+    Two young women changing a car tire in
+    The Shop
   slide6heading: 'Trips, Camps & Events'
   slide6text: |
     ***Sharing experiences, adventure and social impact***
@@ -103,10 +113,11 @@ Blocks:
     • Day Trips - farm, archery, fishing
   slide6topheading: "6"
   slide6toptext: Active Initiatives
-  slide6bottomheading: "4"
+  slide6bottomheading: "6"
   slide6bottomtext: Teams Leading Initiatives
   slide6image:
     - seeds_of_hope.jpg
+  alttext6: Youths dancing at Seeds of Hope camp
   _key: six-slides
   _uid: six-slides_1606718084500_2337
 - 
@@ -120,6 +131,7 @@ Blocks:
     strategic decisions.
   imageleft:
     - guiding-principle-image-1-v5.png
+  alttextleft: Folded hands on top of an open bible
   subheadmid: LONG-TERM RELATIONSHIPS
   textmid: >
     Since we know wholistic transformation
@@ -128,10 +140,16 @@ Blocks:
     relationships with youth.
   imagemid:
     - guiding-principle-image-2.png
+  alttextmid: >
+    Three women sitting at a table
+    conversing outdoors
   subheadright: LIFE-LONG TRANSFORMATION
   textright: 'Since we desire young people to be on a life-long faith journey with Jesus, we  seek to integrate youth into vibrant faith communities where they can find belonging and purpose.'
   imageright:
     - guiding-principle-image-3-v2.png
+  alttextright: >
+    Male volunteer teaching young boy to
+    ride a bike
   _key: three-image-text
   _uid: three-image-text_1615547173671_2059
 - 

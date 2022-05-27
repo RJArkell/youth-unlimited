@@ -21,6 +21,7 @@ Blocks:
     value: what-we-do
   image:
     - chapter-expenses.png
+  alttext: 'Pie chart of donation usage, categorized by: expenses, operations, gifts and non-cash expenses'
   _key: text-image-alt
   _uid: text-image-alt_1614546525468_977
 - 
@@ -32,6 +33,9 @@ Blocks:
     value: what-we-do
   image:
     - program-expenses.png
+  alttext: >
+    Pie chart of program expenses split into
+    seven categories
   _key: text-image-alt
   _uid: text-image-alt_1614562065789_2340
 - 
@@ -43,6 +47,9 @@ Blocks:
     value: donate
   image:
     - operating-expenses-2.png
+  alttext: >
+    Pie chart of operating expenses split
+    into seven categories
   _key: text-image-alt
   _uid: text-image-alt_1614549247188_1634
 - 
@@ -56,12 +63,15 @@ Blocks:
     representing a gap of $319,000. Your
     support can help undergird these staff
     specifically.
-  buttontext: 'Donate to "where most needed"  ›'
+  buttontext: 'Donate to Open Hearts Assistance Fund  ›'
   button:
     type: page
-    value: donate
+    value: open-hearts
   image:
     - staff-funding.png
+  alttext: >
+    Pie chart of staff funding levels;
+    either fully funded or short of target
   _key: text-image-alt
   _uid: text-image-alt_1614537896687_1922
 - 
@@ -70,6 +80,6 @@ Blocks:
   button:
     type: url
     value: >
-      https://drive.google.com/file/d/1gv_pI11Yb0Pl2nErPRh7-Uq6CtdEHLuV/view?usp=sharing
+      https://drive.google.com/file/d/1wyFVNapcZ-c2wggolQ_AmLXQuBSBxXQv/view?usp=sharing
   _key: footer-aboutus
   _uid: footer-aboutus_1614534016058_1561

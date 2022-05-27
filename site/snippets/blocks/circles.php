@@ -7,7 +7,7 @@
       </div>
       <div class="cgrid2">
         <?php $image = $data->Imageleft()->toFile() ?>
-        <img class="circleimg" src="<?= $image->url() ?>">
+        <img class="circleimg" alt="<?= $data->alttextleft()->html() ?>" src="<?= $image->url() ?>">
       </div>
     </div>
 
@@ -18,7 +18,7 @@
       </div>
       <div class="cgrid2">
         <?php $image = $data->Imagemid()->toFile() ?>
-        <img class="circleimg" src="<?= $image->url() ?>">
+        <img class="circleimg" alt="<?= $data->alttextmid()->html() ?>" src="<?= $image->url() ?>">
       </div>
     </div>
 
@@ -29,7 +29,7 @@
       </div>
       <div class="cgrid2">
         <?php $image = $data->Imageright()->toFile() ?>
-        <img class="circleimg" src="<?= $image->url() ?>">
+        <img class="circleimg" alt="<?= $data->alttextright()->html() ?>" src="<?= $image->url() ?>">
       </div>
     </div>
   </div>

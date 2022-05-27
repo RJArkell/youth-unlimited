@@ -10,7 +10,7 @@
     </div>
     <div class="headergi2">
       <?php $image = $data->image()->toFile() ?>
-      <img class="headergiimg" src="<?= $image->url() ?>">
+      <img class="headergiimg" alt="<?= $data->alttext()->html() ?>" src="<?= $image->url() ?>">
     </div>
     <div class="headergi4">
       <img class="headergilogo" src="./assets/images/svgs/bluequote.svg">

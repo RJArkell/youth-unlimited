@@ -11,7 +11,7 @@
     </div>
     <div class="headerab2">
       <?php $image = $data->image()->toFile() ?>
-      <img class="headerabimg" src="<?= $image->url() ?>">
+      <img class="headerabimg" alt="<?= $data->alttext()->html() ?>" src="<?= $image->url() ?>">
     </div>
     <div class="headerab4">
       <img class="headerablogo" src="./assets/images/svgs/goldquote.svg">

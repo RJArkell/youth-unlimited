@@ -5,22 +5,30 @@ Title: About Us
 Blocks:
 
 - 
-  heading: ""
+  heading: ' '
   _key: navbar-aboutus
   _uid: navbar-aboutus_1607628865214_2771
 - 
-  heading: About Youth Unlimited in Toronto
+  heading: YU in 4 minutes
+  video:
+    type: url
+    value: >
+      https://www.youtube.com/embed/wJV0Az86JDo
+  text: "Learn about Youth Unlimited's vision, work, and impact across the Greater Toronto Area in this 4-minute video! We are all about transformed youth transforming our city."
+  _key: header-whatwedo
+  _uid: header-whatwedo_1650563249540_10881
+- 
   image:
     - about-us_475x701_yellow-this-one.png
-  bottomsubhead: Our Vision
-  bottomhtext: "That every young person in the GTA will be transformed by God's love and life-changing power and will be a redemptive presence in their family, community, and beyond."
+  alttext: Youths playing with a parachute
+  heading: Our Vision
+  text: "That every young person in the GTA will be transformed by God's love and life-changing power and will be a redemptive presence in their family, community, and beyond."
   buttontext: 'What We Do  ›'
   button:
     type: page
     value: what-we-do
-  _key: header-aboutus
-  bottomheading: null
-  _uid: header-aboutus_1605733372543_2499
+  _key: image-text-alt
+  _uid: image-text-alt_1650567144400_21276
 - 
   heading: Our Vision for Transformation
   slide1heading: The "Canvas of Transformation"
@@ -30,7 +38,7 @@ Blocks:
     painting on the canvas of both lives and
     neighbourhoods over time. We envision
     the colour palette having YU’s 5
-    Primary Colours, from which any
+    Transformative Colours, from which any
     combination of colours can be created.
     As we invest in youth wholeness in this
     context, we believe we will continue to
@@ -45,6 +53,7 @@ Blocks:
   slide1bottomtext: ' '
   slide1image:
     - canvas-of-transformation.jpg
+  alttext1: Multicoloured abstract mosaic
   slide2heading: 'Colour #1: Rooted Identity'
   slide2text: |
     ***Engaging Life with Jesus***
@@ -56,6 +65,9 @@ Blocks:
   slide2bottomtext: ' '
   slide2image:
     - rooted-identity.jpg
+  alttext2: >
+    Green icon with drawing of a tree and
+    sun
   slide3heading: 'Colour #2: Renewed Character'
   slide3text: |
     ***Growing in Virtue***
@@ -67,6 +79,9 @@ Blocks:
   slide3bottomtext: ' '
   slide3image:
     - renewed-character.jpg
+  alttext3: >
+    Purple icon with drawing of a cluster of
+    grapes
   slide4heading: 'Colour #3: Healthy Relationships'
   slide4text: |
     ***Seeking Reconciliation & Vibrant Community***
@@ -78,6 +93,9 @@ Blocks:
   slide4bottomtext: ' '
   slide4image:
     - healthy-relationships.jpg
+  alttext4: >
+    Red icon with drawing of a group of
+    people
   slide5heading: 'Colour #4: Joyful Service'
   slide5text: |
     ***Putting Others First***
@@ -89,6 +107,9 @@ Blocks:
   slide5bottomtext: ' '
   slide5image:
     - jofyful-service.jpg
+  alttext5: >
+    Yellow icon with drawing of a mop and
+    bucket
   slide6heading: 'Colour #5: Clear Purpose'
   slide6text: |
     ***Discovering & Utilizing Gifts & Abilities***
@@ -100,6 +121,9 @@ Blocks:
   slide6bottomtext: ' '
   slide6image:
     - clear-purpose.jpg
+  alttext6: >
+    Blue icon with drawing of an arrow in an
+    archery target
   _key: six-slides
   _uid: six-slides_1614182623517_12066
 - 
@@ -107,8 +131,14 @@ Blocks:
   text: 'Youth Unlimited (originally Youth For Christ) was launched in 1944. Inspired by YFC rallies in Chicago, our roots in Toronto began with hosting large youth rallies at Massey Hall. These became some of the largest youth gatherings in the world at the time. Since then, YU’s entrepreneurial spirit has led us through a series of strategic shifts that clearly exemplifies our motto:  “Anchored to the Rock but geared to the times.”  Over the past 75 years our approach has developed to include weekly community clubs, proactive outreach programs, and neighbourhood-focused church partnerships.'
   image:
     - text-on-image-desktop.png
+  alttext: >
+    Black and white photo of stadium filled
+    with young people
   imagemobile:
     - text-on-image-mobile.png
+  alttextmobile: >
+    Black and white photo of stadium filled
+    with young people
   _key: text-on-image
   buttontext: null
   button:
@@ -147,11 +177,40 @@ Blocks:
   buttontext: 'Learn More  ›'
   button:
     type: page
-    value: making-space
+    value: our-strategy
   image:
     - support-group.png
+  alttext: >
+    Support group circle sitting around a
+    young man
   _key: text-image
   _uid: text-image_1605729589122_1419
+- 
+  heading: Part of a National Movement
+  text: >
+    YFC Toronto is a chartered member of
+    Youth for Christ Canada, an
+    international, non-denominational
+    Christian ministry who, for over 75
+    years, has passionately engaged young
+    people to live their full life potential
+    as designed by God. Motivated by our
+    faith, we believe that transformed youth
+    have the opportunity to transform
+    communities, our country, and the world.
+    We engage and equip youth to know and
+    follow Jesus.
+  buttontext: 'About YFC Canada  ›'
+  button:
+    type: url
+    value: https://yfc.ca/
+  image:
+    - yfc-national-map.jpg
+  alttext: >
+    Map of Canada with red YFC location
+    markers
+  _key: text-image-alt
+  _uid: text-image-alt_1620672452474_2520
 - 
   heading: View our latest Impact Report
   buttontext: 'Download Now  ›'

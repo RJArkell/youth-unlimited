@@ -20,8 +20,10 @@ Blocks:
     We want to share what a legacy gift is and what its benefits are. As well, we invite you to take advantage of our free, friendly, high-quality estate-planning service with **Advisors with Purpose**.
   image:
     - legacy-giving.png
+  alttext: Two men running on a blue running track
   imagemobile:
     - legacy-giving.png
+  alttextmobile: Two men running on a blue running track
   _key: text-on-image
   _uid: text-on-image_1614606390930_9216
 - 
@@ -34,6 +36,7 @@ Blocks:
       http://www.renga.studio/youthunlimited/media/pages/publications/legacy-giving-your-story-our-story/2919959254-1614806877/yu-legacy-booklet-2021.pdf
   image:
     - legacy-doxa-group.png
+  alttext: DOXA group photo with youth and staff
   _key: text-image-alt
   _uid: text-image-alt_1614606630040_9703
 - 
@@ -58,6 +61,7 @@ Blocks:
 - 
   image:
     - legacy-hands-v1.png
+  alttext: Two hands holding each other
   heading: We are here to help
   text: >
     With a good estate plan, you’ll have

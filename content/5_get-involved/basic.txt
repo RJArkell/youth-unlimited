@@ -12,6 +12,7 @@ Blocks:
   heading: Get Involved in Changing Young Lives
   image:
     - get-involved_475x701_blue-this-one.png
+  alttext: Young boy raising his hand
   bottomsubhead: STRENGTH IN NUMBERS
   bottomhtext: >
     At Youth Unlimited, we believe everyone
@@ -35,14 +36,18 @@ Blocks:
   buttontext: "We're Hiring  ›"
   button:
     type: page
-    value: jobs
+    value: careers
   image:
     - rob-with-yds.png
+  alttext: Three male staff standing arm-in-arm
   _key: text-image-alt
   _uid: text-image-alt_1606168892580_708
 - 
   image:
     - canoeing.png
+  alttext: >
+    Group of young men wearing life jackets
+    and holding canoeing oars
   heading: >
     Create change with 500+ volunteers
     across the city
@@ -74,6 +79,9 @@ Blocks:
     value: partner-with-us
   image:
     - 0000_get-involved-partner.png
+  alttext: >
+    Two young boys running in jiu jitsu
+    class
   _key: text-image-alt
   uniquekey: 0
   showpreviewinitially: false
@@ -83,7 +91,7 @@ Blocks:
   leftbuttontext: 'Careers  ›'
   leftbutton:
     type: page
-    value: jobs
+    value: careers
   midbuttontext: 'Volunteer  ›'
   midbutton:
     type: page

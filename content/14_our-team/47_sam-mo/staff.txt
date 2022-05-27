@@ -1,0 +1,56 @@
+Title: Sam Mo
+
+----
+
+Name: Sam Mo
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34458" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Sam runs a youth group of community youth at the Victoria Park Hub called the Hubsters in partnership with East Toronto Chinese Baptist Church (ETCBC) where he is the Community Outreach Pastor.  The Hubsters do life together weekly cooking, playing games, discussing touchy topics and serving the Victoria Village residents.  Sam has a passion for hearing the stories of others so the he can meet them where they are and speak into their lives with encouragement.  In addition to the youth group, Sam preaches and teaches at ETCBC, looks to use his IT skills to help others and continue to engage with people who have backgrounds different from his so he can always keep learning.
+
+----
+
+Image:
+
+- layer-77.png
+
+----
+
+Alttext: Sam Mo portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers, Vic Park Hub

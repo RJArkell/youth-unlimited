@@ -1,0 +1,56 @@
+Title: Erin Hounsome
+
+----
+
+Name: Erin Hounsome
+
+----
+
+Position: The Shop Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="70234" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Erin is currently following her passion for helping young people in her role as an Intern at The Shop. She’s excited to see where God will take her through this serving opportunity.
+
+----
+
+Image:
+
+- dsc01066e-1-2.jpg
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: https://facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://facebook.com
+
+----
+
+Tags: intern, the shop

@@ -14,6 +14,7 @@ Blocks:
     Idea!
   image:
     - about-us_475x701_blue-this-one.png
+  alttext: Young girl smiling and receiving a plant
   bottomsubhead: ' '
   bottomhtext: >
     We know one person with one idea can
@@ -37,11 +38,17 @@ Blocks:
     value: "mailto:kwebb@yugta.ca?subject=I'd like to participate in a sponsored event"
   image:
     - 0017_fundraise-centurion.png
+  alttext: >
+    Four people participating in biking
+    fundraiser event
   _key: text-image-alt
   _uid: text-image-alt_1613575427648_9655
 - 
   image:
     - 0016_fundraise-event.png
+  alttext: >
+    Group photo at annual Friends Reception
+    event
   heading: >
     Host an Advocacy Gathering at your home
     or YU event
@@ -75,6 +82,9 @@ Blocks:
       https://www.canadahelps.org/en/fundraise/
   image:
     - fundraise-2k-kids.jpg
+  alttext: >
+    Kids running in neon green jerseys to
+    fundraise
   _key: text-image-alt
   uniquekey: 0
   showpreviewinitially: false
@@ -84,7 +94,7 @@ Blocks:
   leftbuttontext: 'Careers  ›'
   leftbutton:
     type: page
-    value: jobs
+    value: careers
   midbuttontext: 'Volunteer  ›'
   midbutton:
     type: page

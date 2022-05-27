@@ -1,0 +1,56 @@
+Title: Nicholas Chang
+
+----
+
+Name: Nicholas Chang
+
+----
+
+Position: Social Worker
+
+----
+
+Team: Light Patrol
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34213" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Nicholas’ compassion for those in poverty led him to pursue a degree in Social Work and minister to children and youth living in community housing. His own heart grew as he learned about each person’s difficult stories. God then brought Nicholas to Youth Unlimited where he now seeks to serve the homeless youth of Toronto by connecting them to resources around the city and developing Light Patrol’s social service agency relationships. He hopes to share God’s love and peace so that the youth know it in their hearts.
+
+----
+
+Image:
+
+- layer-27.png
+
+----
+
+Alttext: Nicholas Chang portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Light Patrol

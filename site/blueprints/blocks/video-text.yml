@@ -3,11 +3,9 @@ fields:
   heading:
     label: Heading
     type: text
-    required: true
   text:
     label: Text
     type: textarea
-    required: true
   buttontext:
     label: Button Text
     type: text
@@ -18,10 +16,12 @@ fields:
     label: Video
     type: link
     required: true
+  caption:
+    label: Caption
+    type: text
   position:
-    toggle:
-      label: Left/Right Alignment
-      type: toggle
-      text: 
-        - "Left"
-        - "Right"
+    label: Left/Right Video Alignment
+    type: toggle
+    text: 
+      - "Left"
+      - "Right"

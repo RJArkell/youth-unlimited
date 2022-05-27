@@ -13,7 +13,7 @@
   <div class="storydate"><time><?= $page->date()->toDate('d / m / Y') ?></time></div>
   <h2 class="storyheader"><?= $page->name()->html() ?></h2>
   <div class="storysub"><?= $page->subheading()->kt() ?></div>
-  <img class="storyimg" src=<?= $page->image()->url() ?>>
+  <img class="storyimg" alt="<?= $data->alttext()->html() ?>" src=<?= $page->image()->url() ?>>
   <div class="storytext"><?= $page->body()->kt() ?></div>
   <div class="storysocial">
     <p>Share</p> 

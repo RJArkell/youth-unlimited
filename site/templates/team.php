@@ -54,7 +54,7 @@
   <h2 class="teamheading"><?= $page->headingtwo()->html() ?></h2>
   <div class="team4">
     <div class="teamltxt tt15"><?= $page->stats()->kt() ?></div>
-    <img class="tt16" src=<?= $page->image()->url() ?>>
+    <img class="tt16" alt="<?= $data->alttext()->html() ?>" src=<?= $page->image()->url() ?>>
   </div>
   <div class="footertgrid">
     <div class="footert1">

@@ -1,0 +1,62 @@
+Title: Andrew Ironside
+
+----
+
+Name: Andrew Ironside
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: South-Central Etobicoke
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34439" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description:
+
+Andrew’s desire is to follow the example of Jesus and serve the youth and families of the South Etobicoke community well. 
+
+Since 2013, he has been running the Lakeshore Soccer League, a grassroots program for 200 youth every summer. As part of this league, 30 High School students also take part as Jr. Coaches through the Leaders in Training Program.
+
+During the fall and winter, Andrew's responsibilities include running an after-school soccer program at Lakeshore Collegiate, ongoing youth mentorship, caring for families, and fundraising for the programs.
+
+----
+
+Image:
+
+- layer-33.png
+
+----
+
+Alttext: Andrew Ironside portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: South-Central Etobicoke

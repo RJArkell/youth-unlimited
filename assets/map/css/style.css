@@ -1,0 +1,107 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.map {
+  width: 100%;
+  height: 100%;
+}
+a.mapboxgl-ctrl-logo {
+  display: none;
+}
+.mapboxgl-ctrl-attrib {
+  display: none;
+}
+.mapboxgl-popup {
+  max-width: unset!important;
+}
+button.mapboxgl-popup-close-button {
+  color: #000;
+  font-size: 3rem;
+  font-weight: 100;
+  margin: 1rem;
+}
+#popup {
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+  max-height: 320px;
+  overflow-y: auto;
+  position: absolute;
+  right: 20px;
+  bottom: 80px;
+  left: 20px;
+  z-index: 1;
+}
+@media only screen and (min-width: 768px) {
+  #popup {
+    bottom: 20px;
+    left: unset;
+    width: 320px;
+  }
+}
+#popup #close {
+  color: #000;
+  cursor: pointer;
+  font-size: 1rem;
+  font-family: Cabin, sans-serif;
+  font-weight: 400;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+#popup #close:hover {
+  color: #A00;
+}
+.info {
+  border-radius: 4px;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+.info * {
+  line-height: 1.2;
+  margin: 0;
+}
+.info h2 {
+  font-size: 1.5rem;
+  font-family: 'Roboto Slab', sans-serif;
+  font-weight: 500;
+  max-width: 80%;
+}
+@media only screen and (min-width: 768px) {
+  .info h2 {
+    max-width: unset;
+  }
+}
+.info h3 {
+  font-size: 1.1rem;
+  font-family: Cabin, sans-serif;
+  font-weight: 600;
+  margin: 1rem 0 0.25rem 0.125rem;
+  text-transform: uppercase;
+}
+.info p,
+.info a {
+  font-size: 1rem;
+  font-family: Cabin, sans-serif;
+  font-weight: 400;
+  margin-left: 0.2rem;
+  margin-bottom: 0.25rem;
+}
+.info a {
+  text-decoration: none;
+}
+.catchment {
+  border-radius: 5px;
+}
+.hidden {
+  display: none;
+}

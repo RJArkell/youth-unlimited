@@ -13,7 +13,7 @@
     </div>
     <div class="headerh2">
       <?php $image = $data->image()->toFile() ?>
-      <img class="headerhimg" src="<?= $image->url() ?>">
+      <img class="headerhimg" alt="<?= $data->alttext()->html() ?>" src="<?= $image->url() ?>">
     </div>
     <div class="headerh4">
       <img class="headerhlogo" src="./assets/images/svgs/goldquote.svg">

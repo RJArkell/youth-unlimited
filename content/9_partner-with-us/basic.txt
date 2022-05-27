@@ -12,6 +12,7 @@ Blocks:
   heading: Partner with Us
   image:
     - 0000_partner-header.png
+  alttext: Four people playing basketball outdoors
   bottomsubhead: We Value Local Partnerships
   bottomhtext: >
     Here at Youth Unlimited we know we are
@@ -38,11 +39,15 @@ Blocks:
     value: https://form.jotform.com/210626158222246
   image:
     - 0015_partner-shared-mission.png
+  alttext: >
+    Group photo of many YU ministry
+    participants and volunteers
   _key: text-image-alt
   _uid: text-image-alt_1614338840666_5529
 - 
   image:
     - 0014_partner-shared-space-2.png
+  alttext: "Two women conversing while sitting in rocking chairs in a baby's room"
   heading: Shared Space
   text: >
     Open up your facility to enable us to
@@ -69,11 +74,17 @@ Blocks:
     value: https://form.jotform.com/210626158222246
   image:
     - 0012_partner-shared-resources.png
+  alttext: >
+    Care package with water, snacks, socks,
+    tissues and toiletries
   _key: text-image-alt
   _uid: text-image-alt_1614339197006_6405
 - 
   image:
     - 0011_partner-shared-community.png
+  alttext: >
+    Pastor speaking and church members in
+    front row seats during service
   heading: Shared Community
   text: >
     Help us in our desire to see community
@@ -91,7 +102,7 @@ Blocks:
   leftbuttontext: 'Careers  ›'
   leftbutton:
     type: page
-    value: jobs
+    value: careers
   midbuttontext: 'Volunteer  ›'
   midbutton:
     type: page

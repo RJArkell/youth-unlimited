@@ -30,7 +30,7 @@
       </div>
       <div class="tab3">
         <?php $image = $data->slide1image()->toFile() ?>
-        <img class="tabimg" src="<?= $image->url() ?>">
+        <img class="tabimg" alt="<?= $data->alttext1()->html() ?>" src="<?= $image->url() ?>">
       </div>
     </div>
 
@@ -51,7 +51,7 @@
       </div>
       <div class="tab3">
         <?php $image = $data->slide2image()->toFile() ?>
-        <img class="tabimg" src="<?= $image->url() ?>">
+        <img class="tabimg" alt="<?= $data->alttext2()->html() ?>" src="<?= $image->url() ?>">
       </div>
     </div>
 
@@ -72,7 +72,7 @@
       </div>
       <div class="tab3">
         <?php $image = $data->slide3image()->toFile() ?>
-        <img class="tabimg" src="<?= $image->url() ?>">
+        <img class="tabimg" alt="<?= $data->alttext3()->html() ?>" src="<?= $image->url() ?>">
       </div>
     </div>
 
@@ -93,7 +93,7 @@
       </div>
       <div class="tab3">
         <?php $image = $data->slide4image()->toFile() ?>
-        <img class="tabimg" src="<?= $image->url() ?>">
+        <img class="tabimg" alt="<?= $data->alttext4()->html() ?>" src="<?= $image->url() ?>">
       </div>
     </div>
 
@@ -114,7 +114,7 @@
       </div>
       <div class="tab3">
         <?php $image = $data->slide5image()->toFile() ?>
-        <img class="tabimg" src="<?= $image->url() ?>">
+        <img class="tabimg" alt="<?= $data->alttext5()->html() ?>" src="<?= $image->url() ?>">
       </div>
     </div>
 
@@ -135,7 +135,7 @@
       </div>
       <div class="tab3">
         <?php $image = $data->slide6image()->toFile() ?>
-        <img class="tabimg" src="<?= $image->url() ?>">
+        <img class="tabimg" alt="<?= $data->alttext6()->html() ?>" src="<?= $image->url() ?>">
       </div>
     </div>
   </div>

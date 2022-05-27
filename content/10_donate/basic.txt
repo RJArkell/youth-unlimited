@@ -15,6 +15,10 @@ Blocks:
 - 
   image:
     - 0016_donate-financial-statements.png
+  alttext: >
+    Graffiti art of the word "fearful"
+    crossed out and the word "courageous"
+    bolded in orange
   heading: Your Financial Partnership Matters
   text: >
     Impacting hundreds of young lives with
@@ -24,9 +28,7 @@ Blocks:
     difference makers in our city through
     the youth we serve today.
   buttontext: ""
-  button:
-    type: url
-    value: yugta.ca/
+  button: null
   _key: image-text-alt
   _uid: image-text-alt_1614519234376_8529
 - 
@@ -74,27 +76,19 @@ Blocks:
     people we serve.
   buttontext: Email Us ›
   button:
-    type: url
-    value: mailto:info@yugta.ca
-  question1: 'Is donating online secure? '
-  answer1: >
-    Yes! We are proud to partner with
-    CanadaHelps, which upholds gold standard
-    industry security practices. When you
-    give online, CanadaHelps will send you a
-    tax receipt and forward the money to YU
-    within one week.
+    type: page
+    value: partner-with-us
+  question1: >
+    Is donating online secure? Can I give
+    offline, too?
+  answer1: 'Yes! We are proud to partner with CanadaHelps, which upholds gold standard industry security practices. When you give online, CanadaHelps will send you a tax receipt and forward the money to YU within one week. You can also give offline by printing and mailing us (link: https://drive.google.com/file/d/1CQfK8uHLYaEsbFAHF_0J1MCfsmpHQxwi/view?usp=sharing text: this form).'
   question2: >
     How do I update my monthly support, or
     make a change to how my donations are
     designated?
   answer2: "Please give us a call at 416-383-1477 and we'll be happy to help you. If you donate via CanadaHelps, you'll have to change with them — but we can help you with that, too!"
-  question3: "What is YU's charity registration number?"
-  answer3: >
-    We operate as Youth Unlimited with the
-    legal name Toronto Youth For Christ. Our
-    charitable registration number is
-    140813502 RR 0001.
+  question3: "What is YU's charity registration number and restricted giving policy?"
+  answer3: 'We operate as Youth Unlimited with the legal name Toronto Youth For Christ. Our charitable registration number is 140813502 RR 0001. Our restricted giving policy is: If a designated account is at some future time closed, any funds remaining in it will be re-allocated to another project or account as needed. If the annual need for a designated account has been met, the program/project leader may request that any surplus be designated towards other critical staff needs. All such decisions are approved by the Executive Director and/or Board of Directors.'
   question4: When will I receive my tax receipt?
   answer4: "We are so grateful for your support! YU sends out tax receipts in February for all giving in the prior tax year. If you didn't receive one, please call 416-383-1477 and we'd be happy to send you a replacement receipt. Please note that if you gave online through CanadaHelps, your tax receipt is handled by CanadaHelps and emailed to you. "
   _key: faq
@@ -114,6 +108,9 @@ Blocks:
     value: financial-statements
   image:
     - photo-how-donations-used.png
+  alttext: >
+    Male and female camp leaders helping a
+    young boy with a craft
   _key: text-image-alt
   _uid: text-image-alt_1614518068644_7822
 - 
@@ -121,7 +118,7 @@ Blocks:
   leftbuttontext: 'Careers  ›'
   leftbutton:
     type: page
-    value: jobs
+    value: careers
   midbuttontext: 'Volunteer  ›'
   midbutton:
     type: page

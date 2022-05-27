@@ -1,0 +1,60 @@
+Title: Mel Kollar
+
+----
+
+Name: Mel Kollar
+
+----
+
+Position: Development Coordinator
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="30798" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description:
+
+Thank you for Partnering with Mel Kollar and her role as Youth Unlimited’s Development Coordinator.
+
+Mel is passionate about Youth Unlimited’s vision to see young people’s lives transformed by God and His love. As Development Coordinator, she helps achieve this vision by ensuring our 65 programs and initiatives are effectively resourced. Her own longstanding history with Youth Unlimited is a true testament to the power of investing in youth mentorship. Mel has a deep heart for people and also focuses on building relationships with program supporters.
+
+----
+
+Image:
+
+- layer-63.png
+
+----
+
+Alttext: Mel Kollar portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

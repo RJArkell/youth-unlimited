@@ -53,14 +53,20 @@ columns:
             time: true
             default: now
             required: true
-          image: true
+          topimage: true
             label: Top Image
             type: files
-            multiple: true
+            multiple: false
             required: true
-          image2: true
+          alttext:
+            label: Image Alt Text
+            type: text
+          bottomimage: true
             label: Bottom Image
             type: files
             multiple: false
             required: true
+          alttext2:
+            label: Image Alt Text
+            type: text
           tags: true

@@ -1,0 +1,56 @@
+Title: Judith Otto
+
+----
+
+Name: Judith Otto
+
+----
+
+Position: Community Development
+
+----
+
+Team: Jane-Finch
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="31458" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Judith works as a Community Development Coordinator in the Jane-Finch area. Most of Judith’s work experience has extensively been with non-profit organizations. As well as earning her M.Ed at York University, Judith previously worked as a Community Health Promoter, Volunteer Coordinator, and Outreach Worker/Coordinator for various community organizations including community health centres. Judith aligns her work with YU’s vision of transformed youth transforming our city. She believes Community Development is best accomplished when engaging, partnering and just walking alongside the Jane-Finch residents and stakeholders who want to embrace the community for positive change.
+
+----
+
+Image:
+
+- layer-17.png
+
+----
+
+Alttext: Judith Otto portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Jane-Finch

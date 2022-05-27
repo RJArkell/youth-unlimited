@@ -1,0 +1,56 @@
+Title: Mark Eggengoor
+
+----
+
+Name: Mark Eggengoor
+
+----
+
+Position: Stepping Stones: Manager
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="46900" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Mark grew up in the landscape horticulture profession and operated a successful business for over 30 years. In the last couple of years, he has been thinking and dreaming about serving God through mentoring youth in the workplace. Through a series of what he believes are God-led events, he met up with Youth Unlimited (YU). With the help of YU, they decided on a property services social enterprise as a platform to engage and employ youth while steadfastly offering and modeling God’s life-changing message.
+
+----
+
+Image:
+
+- layer-79.png
+
+----
+
+Alttext: Mark Eggengoor portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers, Stepping Stones Property Services

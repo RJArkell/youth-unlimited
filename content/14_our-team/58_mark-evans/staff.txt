@@ -6,7 +6,7 @@ Name: Mark Evans
 
 ----
 
-Position: Frontiers Team Leader
+Position: Frontiers Team Leader & BlessUp Coordinator
 
 ----
 
@@ -25,6 +25,10 @@ Description: Youth Unlimited’s Frontiers Team consists of a group of talented 
 Image:
 
 - layer-75.png
+
+----
+
+Alttext: Mark Evans portrait
 
 ----
 

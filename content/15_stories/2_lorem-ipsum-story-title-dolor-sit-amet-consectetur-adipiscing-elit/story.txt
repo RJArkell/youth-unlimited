@@ -24,7 +24,13 @@ Date: 2020-12-22 11:30
 
 ----
 
-Image: - doxa-hue.png
+Image:
+
+- doxa-hue.png
+
+----
+
+Alttext: DOXA staff member looking up and thinking
 
 ----
 

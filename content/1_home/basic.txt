@@ -5,26 +5,27 @@ Title: Home
 Blocks:
 
 - 
-  banner: "Join us for our 2021 'Tee It Up For Transformation' Golf Tournament!"
+  banner: >
+    Thank you to all the golfers and
+    sponsors for teeing it up for
+    transformation in our 35th annual golf
+    tournament in Acton!
   _key: banner
   _uid: banner_1607536136590_1198
 - 
   heading: ""
   _key: navbar-home
-  _uid: navbar-home_1607628474279_1459
+  _uid: navbar-home_1648851567715_10809
 - 
   heading: Transformed youth, transforming our city
-  text: >
-    We’re a faith-based charity investing
-    in youth wholeness to see young lives,
-    their families and their communities
-    transformed.
+  text: "We're a faith-based charity investing in the whole life transformation of youth, their families, and their communities."
   buttontext: 'See What We Do  ›'
   button:
     type: page
     value: what-we-do
   image:
     - largehead.png
+  alttext: Two youths posing and laughing
   bottomsubhead: Who We Serve
   bottomheading: >
     There are over 1 million young people in
@@ -40,18 +41,23 @@ Blocks:
   _key: header-home
   _uid: header-home_1605498046685_797
 - 
-  texttopleft: 3,592
+  texttopleft: 2,119
   textbottomleft: Youth Reached
   imageleft:
     - youth_reached-edited.jpg
-  texttopmid: "590"
+  alttextleft: Three young boys walking side by side
+  texttopmid: "537"
   textbottommid: Staff + Volunteers
   imagemid:
     - circle-staff-and-volunteer.png
-  texttopright: "59"
+  alttextmid: Male staff and volunteer laughing
+  texttopright: "61"
   textbottomright: Active Initiatives
   imageright:
     - rectangle-227.png
+  alttextright: >
+    Group of boys playing basketball
+    outdoors
   _key: circles
   _uid: circles_1604873977960_506
 - 
@@ -79,34 +85,33 @@ Blocks:
   buttontext: 'Learn More  ›'
   button:
     type: page
-    value: making-space
+    value: our-strategy
   image:
     - support-group.png
+  alttext: Support group sitting in a circle
   _key: text-image
   _uid: text-image_1604867825577_2397
 - 
   image:
-    - golf-tournament.png
+    - events-top-image-ttc2022.jpg
   subheading: Latest Events + Stories
-  heading: >
-    2020 Golf Tournament Lorem Ipsum Dolor
-    Salat
-  text: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Vel risus et massa
-    facilisi.
+  heading: '2021 Friends Reception: Restoring Connections'
+  text: '**The Board of Directors and Staff Team at Youth Unlimited (YFC Toronto) warmly invite you to join us for our biennial Friends Reception!**'
   buttontext: 'Learn More  ›'
   button:
-    type: page
-    value: home
+    type: url
+    value: >
+      https://www.yugta.ca/events/2021-friends-reception
   _key: image-text
-  _uid: image-text_1604876828647_1231
+  uniquekey: 0
+  showpreviewinitially: false
+  _uid: image-text_1648702208728_2294
 - 
   heading: Get Involved
   leftbuttontext: 'Careers  ›'
   leftbutton:
     type: page
-    value: job-openings
+    value: careers
   midbuttontext: 'Volunteer  ›'
   midbutton:
     type: page

@@ -8,7 +8,7 @@
     
     <div class="txtimg2">
       <?php $image = $data->image()->toFile() ?>
-      <img class="textimg" src="<?= $image->url() ?>">
+      <img class="textimg" alt="<?= $data->alttext()->html() ?>" src="<?= $image->url() ?>">
     </div>
 
     <div class="txtimg3 redblob"></div>

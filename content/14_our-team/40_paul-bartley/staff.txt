@@ -1,0 +1,56 @@
+Title: Paul Bartley
+
+----
+
+Name: Paul Bartley
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: Jane-Finch
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="33166" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: For most of his life, Paul has made it his goal to partner with youth in his community and help them reach their full life potential. As a Community Youth Mentor, he runs two programs in the Jane-Finch area to reach out to the youth, and also focus on dedicated one-on-one mentoring time. Iron Fruits is a fitness mentoring program that teaches character skills through the discipline of fitness. There is also the Hoop 2 Hope basketball program, which has over 60 young men in attendance. Through this program boys are ushered along their journey to manhood, by mentoring, field trips, and sports activities. He is also our Mentor Specialist for the newly launched BECC internship program. Here, he walks closely with our three interns to develop their growth into young community leaders.
+
+----
+
+Image:
+
+- layer-18.png
+
+----
+
+Alttext: Paul Bartley portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Jane-Finch

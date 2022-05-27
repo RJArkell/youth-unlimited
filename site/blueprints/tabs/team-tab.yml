@@ -100,6 +100,9 @@ columns:
         type: files
         multiple: false
         required: true
+      alttext:
+        label: Image Alt Text
+        type: text
       footer:
         label: Footer Text
         type: text

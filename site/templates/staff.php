@@ -4,7 +4,7 @@
   <div class="headersgrid">
     <div class="headersbackground"></div>
     <div class="headers1">
-        <img class="headersimg" src=<?= $page->image()->url() ?>>
+        <img class="headersimg" alt="<?= $data->alttext()->html() ?>" src=<?= $page->image()->url() ?>>
       </div>
       <div class="headers2">
         <h2 class="headersheader"><?= $page->title()->html() ?></h2>
@@ -21,10 +21,10 @@
         <a href="/./teams/<?= str_replace(' ', '-', strtolower($team)); ?>"><button class="sbutton">View Team Page  ›</button></a>
       </div>
   </div>
-</section>
-<h2 class="headersheader btext">Direct Donation</h2> 
+  <h2 class="headersheader btext">Direct Donation</h2> 
 <div class="donateblock">
   <?= $page->script()->kt() ?>
 </div>
+</section>
 <?php snippet('footer') ?>
 <?php snippet('html_end') ?>

@@ -33,6 +33,9 @@ fields:
     type: files
     multiple: false
     required: true
+  alttext1:
+    label: Image Alt Text
+    type: text
   slide2heading:
     label: Slide 2 Heading
     type: text
@@ -62,6 +65,9 @@ fields:
     type: files
     multiple: false
     required: true
+  alttext2:
+    label: Image Alt Text
+    type: text
   slide3heading:
     label: Slide 3 Heading
     type: text
@@ -91,6 +97,9 @@ fields:
     type: files
     multiple: false
     required: true
+  alttext3:
+    label: Image Alt Text
+    type: text
   slide4heading:
     label: Slide 4 Heading
     type: text
@@ -120,6 +129,9 @@ fields:
     type: files
     multiple: false
     required: true
+  alttext4:
+    label: Image Alt Text
+    type: text
   slide5heading:
     label: Slide 5 Heading
     type: text
@@ -149,3 +161,6 @@ fields:
     type: files
     multiple: false
     required: true
+  alttext5:
+    label: Image Alt Text
+    type: text

@@ -1,0 +1,56 @@
+Title: Tope Famutimi
+
+----
+
+Name: Tope Famutimi
+
+----
+
+Position: Associate Director
+
+----
+
+Team: Jane-Finch
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="57498" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As the Jane & Finch Associate Director, Tope’s role is to assist in leading, supporting and developing staff, volunteers and interns to inspire the Jane & Finch neighbourhood by sharing God’s love. Tope sees the value in investing in children & youth through mentorship and community engagement. Her experience working with children & youth has ranged from residential care, camp work, before & after school programs, autism services, and serving children & youth through mentorship and community outreaches.
+
+----
+
+Image:
+
+- layer-21.png
+
+----
+
+Alttext: Tope Famutimi portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Jane-Finch

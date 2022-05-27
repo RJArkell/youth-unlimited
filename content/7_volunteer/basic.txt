@@ -27,6 +27,9 @@ Blocks:
     value: https://form.jotform.com/80805910546255
   image:
     - soccer-hi5.png
+  alttext: >
+    Female soccer leader high-fiving young
+    player
   _key: text-image-alt
   _uid: text-image-alt_1614258255519_6000
 - 
@@ -35,24 +38,26 @@ Blocks:
   slide1text: >
     Mentoring, coaching, and walking
     alongside young people as they explore
-    faith and mature in life is at the heart
-    of YU’s desire to live out wholistic
-    transformation. As you listen to, care
-    for, and helpfully support youth in our
-    programs, not only will our young people
-    flourish, but you will learn and grow
-    too! As a volunteer, you can be a youth
-    worker in one of our community outreach
-    programs across the city, in a formal
-    coaching relationship with a young
-    Christian leader, as part of a service
-    project, or many other potential places.
+    faith in Jesus and mature in life is at
+    the heart of YU’s desire to live out
+    wholistic transformation. As you listen
+    to, care for, and helpfully support
+    youth in our programs, not only will our
+    young people flourish, but you will
+    learn and grow too! As a volunteer, you
+    can be a youth worker in one of our
+    community outreach programs across the
+    city, in a formal coaching relationship
+    with a young Christian leader, as part
+    of a service project, or many other
+    potential places.
   slide1topheading: ' '
   slide1toptext: ' '
   slide1bottomheading: ' '
   slide1bottomtext: ' '
   slide1image:
     - launch.jpg
+  alttext1: Group photo of youth volunteers
   slide2heading: Young Parent Ministries
   slide2text: >
     Our young parents programs across the
@@ -69,14 +74,17 @@ Blocks:
   slide2bottomtext: ' '
   slide2image:
     - young-moms.jpg
+  alttext2: >
+    Group photo of young moms in Young
+    Parents program
   slide3heading: 'Sports Programs & Activity Clubs'
   slide3text: >
-    Whether it’s on the court, the pitch,
-    or doing a weights session after school,
-    your consistent presence in our sports
-    programs and activity clubs helps create
-    safe spaces for our young people, and it
-    is an amazing gateway to building
+    Whether it’s on the court, doing a
+    weights session after school, or working
+    on artwork, your consistent presence in
+    our activity or sports programs helps
+    create safe spaces for our young people,
+    and it is an amazing gateway to building
     long-term relationships of trust and
     care.
   slide3topheading: ' '
@@ -85,6 +93,9 @@ Blocks:
   slide3bottomtext: ' '
   slide3image:
     - soh-basketball.jpg
+  alttext3: >
+    Young man a blowing whistle and holding
+    a basketball
   slide4heading: Street Outreach Teams
   slide4text: >
     Youth Unlimited has always been
@@ -94,22 +105,26 @@ Blocks:
     people experiencing homelessness or
     young women facing exploitative
     circumstances. Your participation as
-    part of a street outreach team brings
-    comfort, hope, and tangible help to
-    these young friends whom we love.
+    part of a street or parlour outreach
+    team brings comfort, hope, and tangible
+    help to these young friends whom we
+    love.
   slide4topheading: ' '
   slide4toptext: ' '
   slide4bottomheading: ' '
   slide4bottomtext: ' '
   slide4image:
     - outreach-v3.jpg
+  alttext4: >
+    Light Patrol street outreach team
+    conversing
   slide5heading: Support Ministry Roles
   slide5text: >
     It’s not all about frontline work! In
     order to reach young people across the
     city, we need a great team of people
     serving behind the scenes in a variety
-    of supporting roles. This includes
+    of supporting roles. This could include
     joining our prayer team, providing
     clerical assistance with mailings and
     other front office work, shooting photos
@@ -124,6 +139,9 @@ Blocks:
   slide5bottomtext: ' '
   slide5image:
     - kathy-at-ttc.jpg
+  alttext5: >
+    Female staff helping youths with
+    registration
   _key: five-slides
   _uid: five-slides_1614258359473_6495
 - 
@@ -138,10 +156,10 @@ Blocks:
   midheading: Who can volunteer?
   midtext: >
     Due to the nature of our work with young
-    people, we generally prefer volunteers
-    to be 21 or older. For those mentoring
-    youth, volunteers share our faith-based
-    approach to ministry.
+    people, we generally prefer youth work
+    volunteers to be 21 or older. For those
+    mentoring youth, volunteers share our
+    faith-based approach to ministry.
   rightheading: How else can I get involved?
   righttext: >
     We welcome student placements, interns,
@@ -159,7 +177,7 @@ Blocks:
   leftbuttontext: 'Careers  ›'
   leftbutton:
     type: page
-    value: jobs
+    value: careers
   midbuttontext: 'Volunteer  ›'
   midbutton:
     type: page

@@ -1,25 +1,6 @@
 name: Image and Text
 fields:
-  image:
-    label: Image
-    type: files
-    multiple: false
-    required: true
-  subheading:
-    label: Subheading
-    type: text
-    required: true
   heading:
     label: Heading
     type: textarea
     required: true
-  text:
-    label: Text
-    type: textarea
-    required: true
-  buttontext:
-    label: Button Text
-    type: text
-  button:
-    label: Button
-    type: link

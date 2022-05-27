@@ -1,0 +1,56 @@
+Title: Patricia Willemsma
+
+----
+
+Name: Patricia Willemsma
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34477" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Patricia is very involved in the DOXA Journeys Serpent River Program. She provides leadership to the team that travels to Serpent River First Nation in the summer. There they run a day camp and provide support to the community. This includes helping to lead team meetings, participating in fundraisers, and traveling with the team. She is a youth leader for the youth group at Wesley Chapel Free Methodist Church, which involves helping to create opportunities for the youth to get together and learn more about themselves, each other, and Jesus. Patricia also assists the DOXA team with larger events such as the monthly youth gatherings, the winter retreat, and Remix, a week long mission experience in Toronto.
+
+----
+
+Image:
+
+- layer-11.png
+
+----
+
+Alttext: Patricia Willemsma portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: DOXA

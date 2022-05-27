@@ -1,0 +1,63 @@
+Title: Dani Hoover
+
+----
+
+Name: Dani Hoover
+
+----
+
+Position: Coach Coordinator
+
+----
+
+Team: LAUNCH
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="27736" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Dani manages and oversees all 1:1 partnerships between Coaches and LAUNCHees. She recruits and trains Coaches all the while encouraging young leaders to change the world around them by discovering and walking in their God-given potential.
+
+----
+
+Image:
+
+- 0000_launch-dani-hoover.png
+
+----
+
+Alttext: Dani Hoover portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: LAUNCH, Central Services
+
+----
+
+Link:
+
+type: page
+value: teams/launch

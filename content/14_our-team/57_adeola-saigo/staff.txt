@@ -1,0 +1,60 @@
+Title: Adeola Saigo
+
+----
+
+Name: Adeola Saigo
+
+----
+
+Position: Director of Support Services
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type='text/javascript' src="https://www.canadahelps.org/secure/js/cdf_embed.js" charset='utf-8' data-language="en" data-page-id="62199" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description:
+
+Thank you for partnering with Adeola.  As the Director of Support Services, Adeola leads and serves alongside a dedicated and skilled support team to shape and deliver the operations infrastructure of Youth Unlimited (YU). This infrastructure enables our frontline program staff to optimize their ministry and foster the wholistic transformation of young people across the GTA  in fulfillment of YU’s vision - Transformed Youth, Transforming our City.
+
+For donors living in the United States, please go to (link: https://yfci.org/donate/ text: yfci.org/donate/). Select Canada ~ Toronto, Ontario (#57400) from the drop-down list and add "Adeola Saigo" in the comment box. Thank you!
+
+----
+
+Image:
+
+- adeola.png
+
+----
+
+Alttext: Adeola Saigo portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: facebook.com
+
+----
+
+Tags: Central Services

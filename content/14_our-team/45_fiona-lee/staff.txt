@@ -1,0 +1,56 @@
+Title: Fiona Lee
+
+----
+
+Name: Fiona Lee
+
+----
+
+Position: Associate Director
+
+----
+
+Team: Rahab
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34455" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Fiona joined the Rahab Ministry staff team after serving as a volunteer since 2010. She has dedicated herself to serving and evangelizing the marginalized and broken; especially young women, youth, and their families, who have been impacted by the sex trade. She also offers her social services knowledge and skills to help the ministry’s development.  She graduated from Seneca College's Social Service Worker program in 2013 and am currently studying a Master of Divinity (Counseling Program) at Tyndale Seminary.
+
+----
+
+Image:
+
+- layer-31.png
+
+----
+
+Alttext: Fiona Lee portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Rahab

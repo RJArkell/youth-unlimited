@@ -1,0 +1,56 @@
+Title: Rachel Thiessen
+
+----
+
+Name: Rachel Thiessen
+
+----
+
+Position: Director of Engagement
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="61597" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As the Director of Engagement, Rachel's role is to strategically lead Youth Unlimited’s connection with donors, partners, and potential staff and volunteers. Through team leadership, communication strategies, and relationship-building, Rachel supports the sustainable growth and impact of Youth Unlimited’s ministries throughout Toronto. Rachel comes to Youth Unlimited with more than 10 years of experience in the non-profit and Christian ministry sectors, specializing in strategic communications management. Rachel has a passionate heart to see the transformation of young people in the Greater Toronto Area, and is thrilled to be a part of the YU team, using her expertise in communications to serve YU’s staff and Toronto’s youth each day.
+
+----
+
+Image:
+
+- layer-98.png
+
+----
+
+Alttext: Rachel Thiessen portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

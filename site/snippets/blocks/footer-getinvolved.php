@@ -14,9 +14,9 @@
     <div class="footergi3"></div>
     <div class="footergi4">
       <?php $image = $data->image()->toFile() ?>
-      <img class="footergiimg" src="<?= $image->url() ?>">
+      <img class="footergiimg" alt="<?= $data->alttext()->html() ?>" src="<?= $image->url() ?>">
       <?php $image = $data->imagemobile()->toFile() ?>
-      <img class="mfootergiimg" src="<?= $image->url() ?>">
+      <img class="mfootergiimg" alt="<?= $data->alttextmobile()->html() ?>" src="<?= $image->url() ?>">
     </div>
   </div>
 </section>

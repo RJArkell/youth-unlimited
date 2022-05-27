@@ -15,6 +15,7 @@ Blocks:
 - 
   image:
     - lc-andrew-scott.png
+  alttext: ""
   heading: ' '
   text: >
     As a faith-based charitable
@@ -35,25 +36,26 @@ Blocks:
 - 
   heading: Executive Committee
   subheadleft: PAUL HOGAN — CHAIR
-  textleft: "Paul is a retired partner from PwC and has been on YU's Board since 2006. He and his wife attend Redemption Church in Whitby."
+  textleft: "Paul is a retired partner from PwC and has been on YU's Board since 2006. He and his wife attend Redemption Church in Whitby. Paul and Patricia have five children and 14 grandchildren and enjoy walks together."
   imageleft:
     - paul-hogan.jpg
+  alttextleft: ""
   subheadmid: 'JOHN TOMPKINS - SECRETARY'
-  textmid: >
-    John is a retired SVP from Aon Hewitt.
-    John has been on the YU Board since
-    2002. He and his wife attend The Well in
-    Maple.
+  textmid: "John is a retired SVP from Aon Hewitt. John has been on the YU Board since 2002. He and his wife attend The Well in Maple. John's passions include his family, serving on other missions boards, cottaging, various sports and travel."
   imagemid:
     - john-tompkins.jpg
+  alttextmid: ""
   subheadright: 'BRUCE DACCORD - TREASURER'
   textright: >
     Bruce is the President of Transcourt
     Inc. and joined the YU Board in 2013.
     Bruce and his wife attend the Meeting
-    House in Brampton.
+    House in Brampton. They have three
+    children, a grandchild on the way, and
+    enjoy sreading, sports, and travel.
   imageright:
     - bruce-daccord.jpg
+  alttextright: ""
   _key: three-image-text
   _uid: three-image-text_1614607897965_16652
 - 
@@ -66,45 +68,46 @@ Blocks:
     attend the Campus Church in Aurora.
   imageleft:
     - gerd-fiebig.jpg
+  alttextleft: ""
   subheadmid: KAARINA HSIEH
-  textmid: >
-    Kaarina is the Lead Pastor of Parkway
-    Forest Community Church in Toronto.
-    Kaarina joined the YU Board in 2020.
+  textmid: 'Kaarina serves at a diverse and vibrant community as Lead Pastor of Parkway Forest Community Church  in Toronto. Kaarina joined the YU Board in 2020.'
   imagemid:
     - kaarina-hsieh.jpg
+  alttextmid: ""
   subheadright: ANOUSHKA MARTIL
   textright: >
-    Anoushka is a Principal at DPRA Canada
+    Anoushka is a Principal at Avaanz Ltd.
     and joined the YU Board in 2017. She and
     her family are members of Friendship
     Community Church in Toronto.
   imageright:
     - anoushka-martil.jpg
+  alttextright: ""
   _key: three-image-text
   _uid: three-image-text_1614633118788_8813
 - 
-  heading: '    '
-  subheadleft: ANDREW WILLIAMS
+  heading: '       '
+  subheadleft: KAREN WILLSON
   textleft: >
-    Andrew is Principal at Liberty Square
-    Consulting and attends the Meeting
-    House, Yorkdale with his family. Andrew
-    joined the YU Board in 2019.
+    Karen is Partner at Ketchum Canada Inc.
+    and has been on the YU Board since 2002.
+    She and her husband attend Spring Garden
+    Baptist Church in North York. Karen
+    enjoys spending time with her family and
+    friends and loves both curling and golf.
   imageleft:
-    - andrew-williams.jpg
-  subheadmid: KAREN WILLSON
-  textmid: >
-    Karen is SVP at Ketchum Canada Inc. and
-    has been on the YU Board since 2002. She
-    and her husband attend Spring Garden
-    Baptist Church in North York.
-  imagemid:
     - karen-willson.jpg
-  subheadright: ' '
-  textright: ' '
+  alttextleft: ""
+  subheadmid: ' '
+  textmid: ' '
+  imagemid:
+    - blank.png
+  alttextmid: ""
+  subheadright: '  '
+  textright: '  '
   imageright:
     - blank.png
+  alttextright: ""
   _key: three-image-text
   _uid: three-image-text_1614633330084_9594
 - 
@@ -125,7 +128,7 @@ Blocks:
     In additional to our own internal standards, as an affiliate member of the (link: https://www.cccc.org/ text: Canadian Centre for Christian Charities), Youth Unlimited also operates within the external standards expected of a Christian charity:
     - We are committed to the Christian faith.
     - We are diligent in our governance with an independent and active Board.
-    - We demonstrate transparent and proper financial oversight, including (link: http://www.renga.studio/youthunlimited/financial-statements text: public disclosure of our financial statements). (**update link once domain transferred**)
+    - We demonstrate transparent and proper financial oversight, including (link: https://www.yugta.ca/financial-statements text: public disclosure of our financial statements).
     - We operate with the utmost integrity, and adhere to all applicable laws.
     - Our fundraising is ethical and respects the dignity and interests both of those we serve and our donors.
   _key: two-col-text

@@ -12,16 +12,17 @@
 <div class="eventgrid">
   <article class="event1">
     <p class="eventsub">Event Details</p>
-    <div class="eventdate"><time><?= $page->eventdate()->toDate('l dS F, Y') ?></time></div>
+    <div class="eventdate"><time><?= $page->eventdate()->toDate('l jS F, Y') ?></time></div>
     <div class="eventloc"><?= $page->location()->html() ?></div>
     <a href="<?= $page->link()->toLinkObject() ?>"><button class="bbutton eventb"><?= $page->button()->html() ?></button></a>
     <p class="eventsub">About</p>
     <div class="eventtext"><?= $page->body()->kt() ?></div>
   </article>
   <div class="event2">
-  <img class="eventimg" src=<?= $page->image()->url() ?>>
-    <?php if ($image2 = $page->image2()->toFile()): ?>
-      <img class="eventimg beimg" src=<?= $image2->url() ?>>
+    <?php $topimage = $page->topimage()->toFile() ?>
+      <img class="eventimg" alt="<?= $page->alttext()->html() ?>" src="<?= $topimage->url() ?>">
+    <?php if ($bottomimage = $page->bottomimage()->toFile()): ?>
+      <img class="eventimg beimg" alt="<?= $page->alttext2()->html() ?>" src=<?= $bottomimage->url() ?>>
     <?php endif ?>
   </div> 
 </div>

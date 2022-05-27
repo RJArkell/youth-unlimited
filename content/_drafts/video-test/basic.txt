@@ -1,0 +1,14 @@
+Title: Video Test
+
+----
+
+Blocks:
+
+- 
+  heading: A Video
+  _key: header-news
+  _uid: header-news_1649158325283_6708
+- 
+  iframescript: '<div> class="wise-iframe-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/JxKx-BBWX8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  _key: iframe
+  _uid: iframe_1649158081206_5941

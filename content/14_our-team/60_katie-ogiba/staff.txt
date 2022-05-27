@@ -1,0 +1,56 @@
+Title: Katie Ogiba
+
+----
+
+Name: Katie Ogiba
+
+----
+
+Position: Group Leader
+
+----
+
+Team: Young Parents
+
+----
+
+Script: <script id="ch_cdn_embed" type='text/javascript' src="https://www.canadahelps.org/secure/js/cdf_embed.js" charset='utf-8' data-language="en" data-page-id="33849" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Katie is the volunteer leader at our Etobicoke Young Moms Group. Katie knows first-hand the unique and sometimes isolating struggle of being a young mother, having been one herself. Having experienced the life-altering impact of God’s grace, she feels called to share this, specifically with other mothers. She is passionate about bringing back a sense of “village” to parenting and is excited to see God work in and through the lives of the women attending and leading the South Etobicoke Young Moms group.
+
+----
+
+Image:
+
+- layer-38.png
+
+----
+
+Alttext: Katie Ogiba portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Young Parents

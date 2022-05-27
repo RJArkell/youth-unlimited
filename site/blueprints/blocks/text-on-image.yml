@@ -13,8 +13,14 @@ fields:
     type: files
     multiple: false
     required: true
+  alttext:
+    label: Image Alt Text
+    type: text
   imagemobile:
     label: Mobile Image
     type: files
     multiple: false
     required: true
+  alttextmobile:
+    label: Image Alt Text
+    type: text

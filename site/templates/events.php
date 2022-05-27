@@ -14,7 +14,8 @@
     <li class="storyitem">
       <a href="<?= $event->url() ?>">
         <figure>
-          <img class="threegridimg" src=<?= $event->image()->url() ?>>
+        <?php $topimage = $event->topimage()->toFile() ?>
+        <img class="threegridimg" alt="<?= $event->alttext()->html() ?>" src="<?= $topimage->url() ?>">
           <figcaption class="storytitle"><?= $event->name() ?><figcaption>
           <div class="storysum"><?= $event->body()->excerpt(150)->kt() ?></div>
           <time class="jobdate"><?= $event->date()->toDate('d / m / Y') ?></time>

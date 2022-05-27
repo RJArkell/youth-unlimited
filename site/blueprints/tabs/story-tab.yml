@@ -42,4 +42,7 @@ columns:
             type: files
             multiple: false
             required: true
+          alttext:
+            label: Image Alt Text
+            type: text
           tags: true

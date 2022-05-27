@@ -3,12 +3,13 @@ fields:
   heading:
     label: Heading
     type: text
-    required: false
   text:
     label: Text
     type: text
-    required: false
   video:
     label: Video
     type: link
     required: true
+  caption:
+    label: Caption
+    type: text

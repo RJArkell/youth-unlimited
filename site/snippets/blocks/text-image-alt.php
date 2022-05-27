@@ -10,7 +10,7 @@
     
     <div class="txtimgalt2">
       <?php $image = $data->image()->toFile() ?>
-      <img class="textimgalt" src="<?= $image->url() ?>">
+      <img class="textimgalt" alt="<?= $data->alttext()->html() ?>" src="<?= $image->url() ?>">
     </div>
   </div>
 </section>

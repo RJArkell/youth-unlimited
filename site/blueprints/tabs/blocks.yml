@@ -44,3 +44,5 @@ fields:
       footer-home: blocks/footer-home
       footer-aboutus: blocks/footer-aboutus
       footer-getinvolved: blocks/footer-getinvolved
+      video: blocks/video
+      video-text: blocks/video-text

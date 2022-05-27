@@ -96,11 +96,11 @@ Textsix:
 
 ----
 
-Headingtwo: State/Statement of Need
+Headingtwo: Transform Our City
 
 ----
 
-Stats: Description about Central Services at a high-level dolor sit amet, consectetur adipiscing elit. Lacinia dictum donec laoreet tristique bibendum elit vitae.
+Stats: With so many ways to get involved, let's all work together to see transformed youth, transforming our city!
 
 ----
 
@@ -110,11 +110,15 @@ Image:
 
 ----
 
-Footer: Support Us Lorem Ipsum
+Alttext: Two female Central Services staff helping with event registration
 
 ----
 
-Tags: 
+Footer: Support Us Today!
+
+----
+
+Tags: Central Services
 
 ----
 

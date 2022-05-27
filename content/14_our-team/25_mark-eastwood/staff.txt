@@ -1,0 +1,56 @@
+Title: Mark Eastwood
+
+----
+
+Name: Mark Eastwood
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34218" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Mark’s role includes working directly with street and homeless youth in south central Oshawa. He also is working in some of the high school youth hubs in Durham Region as well as partnering with The Refuge and its programming in downtown Oshawa. He is continually working to serve existing community services and churches, and he coaches and equips others to impact their own community.
+
+----
+
+Image:
+
+- layer-74.png
+
+----
+
+Alttext: Mark Eastwood portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers, Durham Outreach
